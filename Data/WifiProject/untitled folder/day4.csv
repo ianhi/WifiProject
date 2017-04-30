@@ -1,0 +1,1254 @@
+12/4/14,4,0:00,2.11,8.43,Cleveland; OH,AT&T,0,46.656,Mbits/s,Mbits/s
+12/4/14,4,0:01,2.06,5.67,Cleveland; OH,AT&T,0,48.677,Mbits/s,Mbits/s
+12/4/14,4,0:02,2.02,1.6,Cleveland; OH,AT&T,0,58.019,Mbits/s,Mbits/s
+12/4/14,4,0:03,1.78,7.64,Cleveland; OH,AT&T,0,42.016,Mbits/s,Mbits/s
+12/4/14,4,0:05,1.76,7.55,Cleveland; OH,AT&T,0,44.437,Mbits/s,Mbits/s
+12/4/14,4,0:06,1.91,2.75,Detroit; MI,T-Mobile,0,35.395,Mbits/s,Mbits/s
+12/4/14,4,0:06,1.54,4.99,Detroit; MI,Comcast,0,38.411,Mbits/s,Mbits/s
+12/4/14,4,0:07,2.27,5.48,Detroit; MI,T-Mobile,0,36.868,Mbits/s,Mbits/s
+12/4/14,4,0:08,1.33,5.78,Detroit; MI,Comcast,0,44.574,Mbits/s,Mbits/s
+12/4/14,4,0:10,2.19,1.23,Detroit; MI,AT&T,0,49.814,Mbits/s,Mbits/s
+12/4/14,4,0:11,1.88,7.28,Toledo; OH,Amplex,0,58.727,Mbits/s,Mbits/s
+12/4/14,4,0:11,2.8,7.84,Cleveland; OH,AT&T,0,43.465,Mbits/s,Mbits/s
+12/4/14,4,0:13,2.47,6.07,Detroit; MI,T-Mobile,0,59.204,Mbits/s,Mbits/s
+12/4/14,4,0:13,2.07,1.38,Detroit; MI,Comcast,0,52.366,Mbits/s,Mbits/s
+12/4/14,4,0:15,2.51,3.25,Detroit; MI,T-Mobile,0,55.75,Mbits/s,Mbits/s
+12/4/14,4,0:15,2.13,6.17,Detroit; MI,T-Mobile,0,33.34,Mbits/s,Mbits/s
+12/4/14,4,0:16,2.44,2.65,Cleveland; OH,AT&T,0,40.425,Mbits/s,Mbits/s
+12/4/14,4,0:18,2.7,6.53,Cleveland; OH,AT&T,0,48.11,Mbits/s,Mbits/s
+12/4/14,4,0:19,2.13,9.6,Cleveland; OH,AT&T,0,39.308,Mbits/s,Mbits/s
+12/4/14,4,0:19,1.6,2.24,Detroit; MI,T-Mobile,0,53.716,Mbits/s,Mbits/s
+12/4/14,4,0:21,3.61,7.22,Detroit; MI,AT&T,0,42.04,Mbits/s,Mbits/s
+12/4/14,4,0:21,2.32,6.19,Detroit; MI,Comcast,0,54.982,Mbits/s,Mbits/s
+12/4/14,4,0:23,2.54,2.89,Cleveland; OH,AT&T,0,115.819,Mbits/s,Mbits/s
+12/4/14,4,0:24,1.41,3.31,Detroit; MI,Comcast,0,39.701,Mbits/s,Mbits/s
+12/4/14,4,0:25,1.2,2.42,Detroit; MI,T-Mobile,0,76.508,Mbits/s,Mbits/s
+12/4/14,4,0:26,2.08,6.06,Detroit; MI,Comcast,0,39.067,Mbits/s,Mbits/s
+12/4/14,4,0:28,2.63,6.99,Detroit; MI,AT&T,0,41.38,Mbits/s,Mbits/s
+12/4/14,4,0:29,1.34,2.67,Detroit; MI,Comcast,0,40.209,Mbits/s,Mbits/s
+12/4/14,4,0:30,1.91,5.5,Detroit; MI,Comcast,0,40.031,Mbits/s,Mbits/s
+12/4/14,4,0:31,3.1,6.82,Cleveland; OH,AT&T,0,47.956,Mbits/s,Mbits/s
+12/4/14,4,0:32,2.49,6.56,Cleveland; OH,AT&T,0,47.522,Mbits/s,Mbits/s
+12/4/14,4,0:33,1.54,2.99,Detroit; MI,T-Mobile,0,36.144,Mbits/s,Mbits/s
+12/4/14,4,0:34,1.33,1.24,Detroit; MI,AT&T,0,52.117,Mbits/s,Mbits/s
+12/4/14,4,0:35,1.73,7.04,Cleveland; OH,AT&T,0,42.663,Mbits/s,Mbits/s
+12/4/14,4,0:36,2.45,4.33,Detroit; MI,T-Mobile,0,45.686,Mbits/s,Mbits/s
+12/4/14,4,0:37,2.76,3.62,Cleveland; OH,AT&T,0,43.206,Mbits/s,Mbits/s
+12/4/14,4,0:38,3.01,2.97,Detroit; MI,T-Mobile,0,42.075,Mbits/s,Mbits/s
+12/4/14,4,0:39,4.04,5.84,Cleveland; OH,AT&T,0,47.719,Mbits/s,Mbits/s
+12/4/14,4,0:40,3.24,9.8,Cleveland; OH,AT&T,0,73.415,Mbits/s,Mbits/s
+12/4/14,4,0:41,3.08,4.25,Detroit; MI,T-Mobile,0,42.251,Mbits/s,Mbits/s
+12/4/14,4,0:42,3.59,7.31,Detroit; MI,AT&T,0,45.42,Mbits/s,Mbits/s
+12/4/14,4,0:43,3.61,5.5,Detroit; MI,AT&T,0,58.961,Mbits/s,Mbits/s
+12/4/14,4,0:44,2.74,4.19,Detroit; MI,T-Mobile,0,40,Mbits/s,Mbits/s
+12/4/14,4,11:04,18.23,13.74,Detroit; MI,T-Mobile,0,28.311,Mbits/s,Mbits/s
+12/4/14,4,11:05,26.08,16.85,Detroit; MI,T-Mobile,0,28.487,Mbits/s,Mbits/s
+12/4/14,4,11:05,15.57,18.7,Detroit; MI,Comcast,0,35.644,Mbits/s,Mbits/s
+12/4/14,4,11:06,25.06,17.58,Detroit; MI,T-Mobile,0,28.807,Mbits/s,Mbits/s
+12/4/14,4,11:06,24.06,14.48,Detroit; MI,T-Mobile,0,27.567,Mbits/s,Mbits/s
+12/4/14,4,11:07,18.23,19.53,Detroit; MI,Comcast,0,35.387,Mbits/s,Mbits/s
+12/4/14,4,11:07,8.86,18.7,Detroit; MI,T-Mobile,0,29.449,Mbits/s,Mbits/s
+12/4/14,4,11:09,9.31,0.33,Detroit; MI,Comcast,0,35.235,Mbits/s,Mbits/s
+12/4/14,4,11:10,7.65,14.65,Detroit; MI,T-Mobile,0,29.611,Mbits/s,Mbits/s
+12/4/14,4,11:10,11.67,13.54,Detroit; MI,Comcast,0,35.26,Mbits/s,Mbits/s
+12/4/14,4,11:12,14.95,11.07,Cleveland; OH,AT&T,0,40.059,Mbits/s,Mbits/s
+12/4/14,4,11:12,10.37,9.28,Detroit; MI,Comcast,0,36.114,Mbits/s,Mbits/s
+12/4/14,4,11:12,9.28,11.07,Cleveland; OH,AT&T,0,36.046,Mbits/s,Mbits/s
+12/4/14,4,11:12,11.45,12.8,Detroit; MI,AT&T,0,36.25,Mbits/s,Mbits/s
+12/4/14,4,11:13,7.92,14.69,Detroit; MI,Comcast,0,36.38,Mbits/s,Mbits/s
+12/4/14,4,11:13,8.07,16.7,Cleveland; OH,AT&T,0,40.138,Mbits/s,Mbits/s
+12/4/14,4,11:14,24.65,17.53,Detroit; MI,T-Mobile,0,32.867,Mbits/s,Mbits/s
+12/4/14,4,11:14,19.24,17.29,Cleveland; OH,AT&T,0,35.586,Mbits/s,Mbits/s
+12/4/14,4,11:15,24.23,18.44,Detroit; MI,T-Mobile,0,28.823,Mbits/s,Mbits/s
+12/4/14,4,11:16,22.47,12.73,Detroit; MI,T-Mobile,0,29.072,Mbits/s,Mbits/s
+12/4/14,4,11:17,2.18,7.92,Detroit; MI,AT&T,0,35.712,Mbits/s,Mbits/s
+12/4/14,4,11:17,21.37,12.32,Detroit; MI,T-Mobile,0,30.598,Mbits/s,Mbits/s
+12/4/14,4,11:17,15.92,10.07,Detroit; MI,T-Mobile,0,31.222,Mbits/s,Mbits/s
+12/4/14,4,11:18,10.58,12.18,Toledo; OH,Amplex,0,66.362,Mbits/s,Mbits/s
+12/4/14,4,11:19,10.4,5.22,Cleveland; OH,AT&T,0,42.738,Mbits/s,Mbits/s
+12/4/14,4,11:19,8.27,16.49,Cleveland; OH,AT&T,0,52.344,Mbits/s,Mbits/s
+12/4/14,4,11:19,14.76,15.66,Detroit; MI,T-Mobile,0,30.132,Mbits/s,Mbits/s
+12/4/14,4,11:20,16.69,11.56,Detroit; MI,T-Mobile,0,40.103,Mbits/s,Mbits/s
+12/4/14,4,11:20,11.11,9.28,Cleveland; OH,AT&T,0,48.867,Mbits/s,Mbits/s
+12/4/14,4,11:20,16.59,10.5,Detroit; MI,T-Mobile,0,29.24,Mbits/s,Mbits/s
+12/4/14,4,11:21,11.57,11.89,Toledo; OH,Amplex,0,91.739,Mbits/s,Mbits/s
+12/4/14,4,11:21,11.18,2.96,Detroit; MI,Comcast,0,38.136,Mbits/s,Mbits/s
+12/4/14,4,11:21,18.52,11.51,Detroit; MI,T-Mobile,0,38.359,Mbits/s,Mbits/s
+12/4/14,4,11:22,14.98,7.59,Detroit; MI,Comcast,0,37.788,Mbits/s,Mbits/s
+12/4/14,4,11:24,10.31,0.19,Detroit; MI,T-Mobile,0,45.218,Mbits/s,Mbits/s
+12/4/14,4,11:24,3.92,11.11,Detroit; MI,AT&T,0,39.162,Mbits/s,Mbits/s
+12/4/14,4,11:24,10.08,7.64,Detroit; MI,T-Mobile,0,39.986,Mbits/s,Mbits/s
+12/4/14,4,11:25,9.91,6.16,Detroit; MI,Comcast,0,69.341,Mbits/s,Mbits/s
+12/4/14,4,11:25,10.86,6.52,Detroit; MI,T-Mobile,0,29.724,Mbits/s,Mbits/s
+12/4/14,4,11:25,8.29,8.91,Cleveland; OH,AT&T,0,46.115,Mbits/s,Mbits/s
+12/4/14,4,11:26,9.29,13.13,Detroit; MI,T-Mobile,0,33.745,Mbits/s,Mbits/s
+12/4/14,4,11:26,14.52,11.12,Detroit; MI,T-Mobile,0,28.502,Mbits/s,Mbits/s
+12/4/14,4,11:26,8.26,13.42,Detroit; MI,AT&T,0,53.037,Mbits/s,Mbits/s
+12/4/14,4,11:27,17.54,14.43,Detroit; MI,T-Mobile,0,29.093,Mbits/s,Mbits/s
+12/4/14,4,11:27,9.2,19.16,Detroit; MI,AT&T,0,54.55,Mbits/s,Mbits/s
+12/4/14,4,11:27,4.81,11.41,Detroit; MI,Comcast,0,50.065,Mbits/s,Mbits/s
+12/4/14,4,11:28,15.57,11.31,Detroit; MI,T-Mobile,0,37.765,Mbits/s,Mbits/s
+12/4/14,4,11:28,10.43,10.9,Detroit; MI,T-Mobile,0,42.976,Mbits/s,Mbits/s
+12/4/14,4,11:29,10.27,10.43,Detroit; MI,T-Mobile,0,28.978,Mbits/s,Mbits/s
+12/4/14,4,11:29,6.06,10.9,Detroit; MI,AT&T,0,36.103,Mbits/s,Mbits/s
+12/4/14,4,11:29,15.1,9.91,Detroit; MI,T-Mobile,0,29.649,Mbits/s,Mbits/s
+12/4/14,4,11:29,10.94,3.48,Canton; OH,LightSpeed Technologies,0,50.979,Mbits/s,Mbits/s
+12/4/14,4,11:30,20.77,10.81,Detroit; MI,T-Mobile,0,31.702,Mbits/s,Mbits/s
+12/4/14,4,11:30,10.17,4.73,Detroit; MI,AT&T,0,42.817,Mbits/s,Mbits/s
+12/4/14,4,11:31,17.68,3.88,Cleveland; OH,AT&T,0,37.986,Mbits/s,Mbits/s
+12/4/14,4,11:31,21.48,6.29,Detroit; MI,T-Mobile,0,30.521,Mbits/s,Mbits/s
+12/4/14,4,11:32,13.71,10.88,Detroit; MI,Comcast,0,35.383,Mbits/s,Mbits/s
+12/4/14,4,11:32,17.28,14.22,Detroit; MI,T-Mobile,0,45.87,Mbits/s,Mbits/s
+12/4/14,4,11:32,6.38,10.16,Toledo; OH,Amplex,0,76.136,Mbits/s,Mbits/s
+12/4/14,4,11:32,18.36,7.44,Detroit; MI,T-Mobile,0,29.324,Mbits/s,Mbits/s
+12/4/14,4,11:33,11.18,14.56,Detroit; MI,T-Mobile,0,29.318,Mbits/s,Mbits/s
+12/4/14,4,11:33,12.05,10.02,Cleveland; OH,AT&T,0,35.777,Mbits/s,Mbits/s
+12/4/14,4,11:33,11.86,13.41,Detroit; MI,AT&T,0,44.617,Mbits/s,Mbits/s
+12/4/14,4,11:34,8.62,11.32,Cleveland; OH,AT&T,0,62.782,Mbits/s,Mbits/s
+12/4/14,4,11:34,7.97,13.13,Detroit; MI,Comcast,0,42.071,Mbits/s,Mbits/s
+12/4/14,4,11:34,17.81,13.75,Detroit; MI,T-Mobile,0,36.012,Mbits/s,Mbits/s
+12/4/14,4,11:35,9.52,11.24,Detroit; MI,AT&T,0,37.839,Mbits/s,Mbits/s
+12/4/14,4,11:35,17.65,11.9,Detroit; MI,T-Mobile,0,30.874,Mbits/s,Mbits/s
+12/4/14,4,11:35,10.63,12.81,Cleveland; OH,AT&T,0,48.034,Mbits/s,Mbits/s
+12/4/14,4,11:36,17.66,7.28,Cleveland; OH,AT&T,0,39.096,Mbits/s,Mbits/s
+12/4/14,4,11:36,17.69,7.66,Cleveland; OH,AT&T,0,35.093,Mbits/s,Mbits/s
+12/4/14,4,11:36,10.64,6.33,Toledo; OH,Amplex,0,62.227,Mbits/s,Mbits/s
+12/4/14,4,11:37,6.97,15.63,Detroit; MI,Comcast,0,36.746,Mbits/s,Mbits/s
+12/4/14,4,11:37,20.6,6.83,Detroit; MI,T-Mobile,0,33.691,Mbits/s,Mbits/s
+12/4/14,4,11:38,11.26,14.6,Cleveland; OH,AT&T,0,35.943,Mbits/s,Mbits/s
+12/4/14,4,11:38,18.2,14.93,Detroit; MI,T-Mobile,0,37.884,Mbits/s,Mbits/s
+12/4/14,4,11:38,12.92,7.65,Cleveland; OH,AT&T,0,48.021,Mbits/s,Mbits/s
+12/4/14,4,11:38,10.13,12,Toledo; OH,Amplex,0,78.766,Mbits/s,Mbits/s
+12/4/14,4,11:39,21.09,12.22,Detroit; MI,T-Mobile,0,30.772,Mbits/s,Mbits/s
+12/4/14,4,11:39,6.85,8.59,Cleveland; OH,AT&T,0,35.04,Mbits/s,Mbits/s
+12/4/14,4,11:39,12.51,11.33,Cleveland; OH,AT&T,0,34.442,Mbits/s,Mbits/s
+12/4/14,4,11:39,12.85,11.19,Cleveland; OH,AT&T,0,40.041,Mbits/s,Mbits/s
+12/4/14,4,11:40,11.67,10.79,Canton; OH,LightSpeed Technologies,0,75.935,Mbits/s,Mbits/s
+12/4/14,4,11:40,20.34,11.79,Detroit; MI,T-Mobile,0,29.086,Mbits/s,Mbits/s
+12/4/14,4,11:41,13.06,15.65,Detroit; MI,T-Mobile,0,29.16,Mbits/s,Mbits/s
+12/4/14,4,11:41,13.68,8.35,Detroit; MI,T-Mobile,0,30.335,Mbits/s,Mbits/s
+12/4/14,4,11:41,12.1,7.16,Detroit; MI,Comcast,0,36.129,Mbits/s,Mbits/s
+12/4/14,4,11:42,19.74,14.99,Cleveland; OH,AT&T,0,36.912,Mbits/s,Mbits/s
+12/4/14,4,11:42,21.09,15.75,Detroit; MI,T-Mobile,0,48.878,Mbits/s,Mbits/s
+12/4/14,4,11:42,9.02,7.08,Cleveland; OH,AT&T,0,44.028,Mbits/s,Mbits/s
+12/4/14,4,11:43,20.92,12.07,Detroit; MI,T-Mobile,0,37.746,Mbits/s,Mbits/s
+12/4/14,4,11:43,9.38,8.18,Detroit; MI,T-Mobile,0,28.607,Mbits/s,Mbits/s
+12/4/14,4,11:44,14.39,16.09,Detroit; MI,T-Mobile,0,40.64,Mbits/s,Mbits/s
+12/4/14,4,11:44,14.69,7.27,Detroit; MI,T-Mobile,0,30.515,Mbits/s,Mbits/s
+12/4/14,4,11:44,12.1,15.98,Detroit; MI,T-Mobile,0,33.419,Mbits/s,Mbits/s
+12/4/14,4,11:44,11.95,8.72,Detroit; MI,T-Mobile,0,28.817,Mbits/s,Mbits/s
+12/4/14,4,11:45,18.01,13.94,Detroit; MI,T-Mobile,0,40.735,Mbits/s,Mbits/s
+12/4/14,4,11:45,12.56,12.79,Cleveland; OH,AT&T,0,55.243,Mbits/s,Mbits/s
+12/4/14,4,11:46,9.79,14.47,Detroit; MI,Comcast,0,63.511,Mbits/s,Mbits/s
+12/4/14,4,11:46,13.21,10.36,Detroit; MI,AT&T,0,36.808,Mbits/s,Mbits/s
+12/4/14,4,11:47,18.34,15.98,Detroit; MI,T-Mobile,0,35.729,Mbits/s,Mbits/s
+12/4/14,4,11:47,10.35,2.79,Detroit; MI,Comcast,0,37.058,Mbits/s,Mbits/s
+12/4/14,4,11:48,3.73,6.69,Cleveland; OH,AT&T,0,41.052,Mbits/s,Mbits/s
+12/4/14,4,11:48,22.07,13.58,Detroit; MI,T-Mobile,0,30.872,Mbits/s,Mbits/s
+12/4/14,4,11:49,8.45,9.61,Cleveland; OH,AT&T,0,35.079,Mbits/s,Mbits/s
+12/4/14,4,11:49,17.27,17.97,Detroit; MI,T-Mobile,0,29.013,Mbits/s,Mbits/s
+12/4/14,4,11:49,13.96,15.61,Detroit; MI,T-Mobile,0,54.746,Mbits/s,Mbits/s
+12/4/14,4,11:50,12.78,10.68,Cleveland; OH,AT&T,0,56.607,Mbits/s,Mbits/s
+12/4/14,4,11:50,10.44,5.17,Detroit; MI,AT&T,0,50.152,Mbits/s,Mbits/s
+12/4/14,4,11:50,13.28,12.76,Detroit; MI,AT&T,0,37.661,Mbits/s,Mbits/s
+12/4/14,4,12:41,,,,,0,,,
+12/4/14,4,12:41,,,,,0,,,
+12/4/14,4,12:42,,,,,0,,,
+12/4/14,4,12:44,,,speedtest.ne,ne,0,peedtest.ne,,
+12/4/14,4,12:45,15.08,18.18,Detroit; MI,T-Mobile,0,27.959,Mbits/s,Mbits/s
+12/4/14,4,12:46,15.1,20.17,Detroit; MI,T-Mobile,0,29.837,Mbits/s,Mbits/s
+12/4/14,4,12:48,12.38,18.24,Detroit; MI,Comcast,0,35.759,Mbits/s,Mbits/s
+12/4/14,4,12:48,20.89,17,Detroit; MI,T-Mobile,0,30.883,Mbits/s,Mbits/s
+12/4/14,4,12:49,9.91,13.33,Detroit; MI,Comcast,0,36.256,Mbits/s,Mbits/s
+12/4/14,4,12:51,0.16,14.11,Detroit; MI,T-Mobile,0,29.488,Mbits/s,Mbits/s
+12/4/14,4,12:52,5.63,17.49,Detroit; MI,Comcast,0,41.565,Mbits/s,Mbits/s
+12/4/14,4,12:52,12.28,14.75,Detroit; MI,Comcast,0,35.318,Mbits/s,Mbits/s
+12/4/14,4,12:53,19.55,17.79,Detroit; MI,T-Mobile,0,29.445,Mbits/s,Mbits/s
+12/4/14,4,12:53,17.93,21.3,Detroit; MI,T-Mobile,0,29.431,Mbits/s,Mbits/s
+12/4/14,4,12:54,14.48,20.55,Detroit; MI,T-Mobile,0,30.5,Mbits/s,Mbits/s
+12/4/14,4,12:54,20.97,21.67,Detroit; MI,T-Mobile,0,29.16,Mbits/s,Mbits/s
+12/4/14,4,12:55,17.2,9.55,Detroit; MI,T-Mobile,0,30.409,Mbits/s,Mbits/s
+12/4/14,4,12:56,17.68,7.27,Cleveland; OH,AT&T,0,37.966,Mbits/s,Mbits/s
+12/4/14,4,12:57,17.71,11.42,Detroit; MI,T-Mobile,0,30.26,Mbits/s,Mbits/s
+12/4/14,4,12:57,11.8,15.68,Cleveland; OH,AT&T,0,38.006,Mbits/s,Mbits/s
+12/4/14,4,12:58,8.59,12.19,Detroit; MI,T-Mobile,0,29.839,Mbits/s,Mbits/s
+12/4/14,4,12:59,10.14,16.11,Cleveland; OH,AT&T,0,36.561,Mbits/s,Mbits/s
+12/4/14,4,13:00,8.09,8.83,Detroit; MI,AT&T,0,36.572,Mbits/s,Mbits/s
+12/4/14,4,13:01,17.53,8.92,Detroit; MI,T-Mobile,0,28.718,Mbits/s,Mbits/s
+12/4/14,4,13:02,14.8,2.36,Detroit; MI,Comcast,0,34.384,Mbits/s,Mbits/s
+12/4/14,4,13:02,14.58,19.04,Detroit; MI,T-Mobile,0,30.769,Mbits/s,Mbits/s
+12/4/14,4,13:03,6.98,16.79,Detroit; MI,AT&T,0,36.122,Mbits/s,Mbits/s
+12/4/14,4,13:03,8.26,12.69,Detroit; MI,T-Mobile,0,30.581,Mbits/s,Mbits/s
+12/4/14,4,13:04,17.58,8.2,Detroit; MI,T-Mobile,0,29.209,Mbits/s,Mbits/s
+12/4/14,4,13:05,5.18,13.78,Cleveland; OH,AT&T,0,35.283,Mbits/s,Mbits/s
+12/4/14,4,13:05,10.97,14.19,Detroit; MI,T-Mobile,0,31.553,Mbits/s,Mbits/s
+12/4/14,4,13:06,14.01,14.34,Detroit; MI,T-Mobile,0,31.214,Mbits/s,Mbits/s
+12/4/14,4,13:07,6.02,13.18,Toledo; OH,Amplex,0,52.715,Mbits/s,Mbits/s
+12/4/14,4,13:07,4.78,7.93,Detroit; MI,Comcast,0,37.107,Mbits/s,Mbits/s
+12/4/14,4,13:08,7.15,16.42,Cleveland; OH,AT&T,0,35.685,Mbits/s,Mbits/s
+12/4/14,4,13:09,5.89,6.36,Detroit; MI,T-Mobile,0,28.214,Mbits/s,Mbits/s
+12/4/14,4,13:10,5.33,8.83,Detroit; MI,T-Mobile,0,29.339,Mbits/s,Mbits/s
+12/4/14,4,13:11,3.88,8.34,Detroit; MI,T-Mobile,0,28.921,Mbits/s,Mbits/s
+12/4/14,4,13:12,4.41,10.32,Detroit; MI,T-Mobile,0,29.9,Mbits/s,Mbits/s
+12/4/14,4,13:13,4.12,12.36,Cleveland; OH,AT&T,0,36.617,Mbits/s,Mbits/s
+12/4/14,4,13:14,3.6,16.12,Cleveland; OH,AT&T,0,35.523,Mbits/s,Mbits/s
+12/4/14,4,13:14,5.23,14.47,Cleveland; OH,AT&T,0,35.403,Mbits/s,Mbits/s
+12/4/14,4,13:15,4.95,17.03,Cleveland; OH,AT&T,0,36.271,Mbits/s,Mbits/s
+12/4/14,4,13:16,5.59,11.42,Detroit; MI,Comcast,0,36.195,Mbits/s,Mbits/s
+12/4/14,4,13:17,4.69,9.81,Detroit; MI,Comcast,0,35.901,Mbits/s,Mbits/s
+12/4/14,4,13:18,6.63,18.76,Detroit; MI,AT&T,0,35.834,Mbits/s,Mbits/s
+12/4/14,4,13:19,6.04,2.47,Detroit; MI,T-Mobile,0,29.228,Mbits/s,Mbits/s
+12/4/14,4,13:20,6.48,10.97,Detroit; MI,T-Mobile,0,27.413,Mbits/s,Mbits/s
+12/4/14,4,13:21,3.68,17.99,Detroit; MI,AT&T,0,37.008,Mbits/s,Mbits/s
+12/4/14,4,13:22,6.68,4.73,Detroit; MI,T-Mobile,0,31.367,Mbits/s,Mbits/s
+12/4/14,4,13:23,8.66,16.68,Cleveland; OH,AT&T,0,35.165,Mbits/s,Mbits/s
+12/4/14,4,13:24,5,17.05,Cleveland; OH,AT&T,0,34.878,Mbits/s,Mbits/s
+12/4/14,4,13:24,11.05,10.53,Detroit; MI,T-Mobile,0,29.034,Mbits/s,Mbits/s
+12/4/14,4,13:25,7.92,17.1,Cleveland; OH,AT&T,0,35.654,Mbits/s,Mbits/s
+12/4/14,4,13:26,4.47,12.01,Detroit; MI,Comcast,0,36.46,Mbits/s,Mbits/s
+12/4/14,4,13:27,10.08,16.52,Cleveland; OH,AT&T,0,35.02,Mbits/s,Mbits/s
+12/4/14,4,13:28,6.78,8.56,Detroit; MI,Comcast,0,35.512,Mbits/s,Mbits/s
+12/4/14,4,13:28,10.83,14.34,Detroit; MI,Comcast,0,35.575,Mbits/s,Mbits/s
+12/4/14,4,13:29,22.17,11.38,Detroit; MI,T-Mobile,0,32.061,Mbits/s,Mbits/s
+12/4/14,4,13:30,9.67,14.07,Detroit; MI,Comcast,0,34.179,Mbits/s,Mbits/s
+12/4/14,4,13:31,11.58,15.55,Detroit; MI,T-Mobile,0,29.381,Mbits/s,Mbits/s
+12/4/14,4,13:31,10.23,10.54,Detroit; MI,Comcast,0,35.616,Mbits/s,Mbits/s
+12/4/14,4,13:32,15.01,17.33,Cleveland; OH,AT&T,0,34.833,Mbits/s,Mbits/s
+12/4/14,4,13:32,15.48,9.24,Detroit; MI,T-Mobile,0,29.698,Mbits/s,Mbits/s
+12/4/14,4,13:33,18.02,13.42,Detroit; MI,T-Mobile,0,28.24,Mbits/s,Mbits/s
+12/4/14,4,13:33,17.69,18.21,Detroit; MI,T-Mobile,0,33.127,Mbits/s,Mbits/s
+12/4/14,4,13:34,10.54,18.19,Cleveland; OH,AT&T,0,35.882,Mbits/s,Mbits/s
+12/4/14,4,13:35,15.41,14.23,Detroit; MI,T-Mobile,0,30.33,Mbits/s,Mbits/s
+12/4/14,4,13:36,9.03,16.78,Detroit; MI,Comcast,0,35.431,Mbits/s,Mbits/s
+12/4/14,4,13:37,16.24,3.55,Detroit; MI,T-Mobile,0,28.965,Mbits/s,Mbits/s
+12/4/14,4,13:37,17.42,17.76,Detroit; MI,T-Mobile,0,30.449,Mbits/s,Mbits/s
+12/4/14,4,13:38,14.04,16.53,Cleveland; OH,AT&T,0,35.023,Mbits/s,Mbits/s
+12/4/14,4,13:38,17.16,19.82,Detroit; MI,T-Mobile,0,30.591,Mbits/s,Mbits/s
+12/4/14,4,13:39,21.1,18.45,Detroit; MI,T-Mobile,0,29.879,Mbits/s,Mbits/s
+12/4/14,4,13:40,14.26,18.3,Cleveland; OH,AT&T,0,35.716,Mbits/s,Mbits/s
+12/4/14,4,13:40,9.45,18.7,Detroit; MI,AT&T,0,35.837,Mbits/s,Mbits/s
+12/4/14,4,13:41,12.15,12.77,Detroit; MI,T-Mobile,0,29.462,Mbits/s,Mbits/s
+12/4/14,4,13:42,12.34,16.24,Cleveland; OH,AT&T,0,35.102,Mbits/s,Mbits/s
+12/4/14,4,13:43,8.67,11.25,Detroit; MI,Comcast,0,34.303,Mbits/s,Mbits/s
+12/4/14,4,13:45,5.54,14.27,Detroit; MI,Comcast,0,34.948,Mbits/s,Mbits/s
+12/4/14,4,13:45,8.07,15.99,Cleveland; OH,AT&T,0,34.853,Mbits/s,Mbits/s
+12/4/14,4,13:46,7.55,8.68,Detroit; MI,Comcast,0,35.485,Mbits/s,Mbits/s
+12/4/14,4,13:47,6.43,9.68,Detroit; MI,Comcast,0,35.325,Mbits/s,Mbits/s
+12/4/14,4,13:48,10.69,9.69,Detroit; MI,Comcast,0,37.106,Mbits/s,Mbits/s
+12/4/14,4,13:49,15.58,5.03,Detroit; MI,T-Mobile,0,30.838,Mbits/s,Mbits/s
+12/4/14,4,13:49,13.92,17.77,Cleveland; OH,AT&T,0,35.515,Mbits/s,Mbits/s
+12/4/14,4,13:50,16.49,14.2,Detroit; MI,T-Mobile,0,32.734,Mbits/s,Mbits/s
+12/4/14,4,13:51,10.41,13.08,Detroit; MI,T-Mobile,0,35.76,Mbits/s,Mbits/s
+12/4/14,4,13:51,11.42,13.94,Detroit; MI,T-Mobile,0,29.196,Mbits/s,Mbits/s
+12/4/14,4,13:52,11.37,8.22,Detroit; MI,T-Mobile,0,29.304,Mbits/s,Mbits/s
+12/4/14,4,13:52,7.55,11.86,Detroit; MI,T-Mobile,0,31.683,Mbits/s,Mbits/s
+12/4/14,4,13:53,6.89,12.68,Detroit; MI,Comcast,0,37.113,Mbits/s,Mbits/s
+12/4/14,4,13:54,15.02,18.37,Cleveland; OH,AT&T,0,36.1,Mbits/s,Mbits/s
+12/4/14,4,13:55,7.81,17.93,Detroit; MI,T-Mobile,0,32.161,Mbits/s,Mbits/s
+12/4/14,4,13:56,8.79,14.52,Detroit; MI,T-Mobile,0,30.553,Mbits/s,Mbits/s
+12/4/14,4,13:56,10.47,17.81,Detroit; MI,T-Mobile,0,32.709,Mbits/s,Mbits/s
+12/4/14,4,13:57,10.46,14.55,Detroit; MI,T-Mobile,0,29.791,Mbits/s,Mbits/s
+12/4/14,4,13:57,10.32,11,Detroit; MI,T-Mobile,0,32.51,Mbits/s,Mbits/s
+12/4/14,4,13:58,9.23,19.66,Detroit; MI,T-Mobile,0,31.05,Mbits/s,Mbits/s
+12/4/14,4,13:59,10.76,6.1,Detroit; MI,T-Mobile,0,32.058,Mbits/s,Mbits/s
+12/4/14,4,13:59,13.09,12.28,Detroit; MI,T-Mobile,0,30.888,Mbits/s,Mbits/s
+12/4/14,4,14:00,13.72,15.58,Detroit; MI,Comcast,0,37.142,Mbits/s,Mbits/s
+12/4/14,4,14:01,10.29,8.14,Detroit; MI,T-Mobile,0,29.446,Mbits/s,Mbits/s
+12/4/14,4,14:01,18.01,12.67,Cleveland; OH,AT&T,0,36.206,Mbits/s,Mbits/s
+12/4/14,4,14:02,15.2,7.86,Detroit; MI,T-Mobile,0,28.75,Mbits/s,Mbits/s
+12/4/14,4,14:03,11.59,14.83,Detroit; MI,T-Mobile,0,29.213,Mbits/s,Mbits/s
+12/4/14,4,14:03,16.71,19.17,Detroit; MI,T-Mobile,0,30.526,Mbits/s,Mbits/s
+12/4/14,4,14:04,16.68,8.8,Detroit; MI,T-Mobile,0,30.16,Mbits/s,Mbits/s
+12/4/14,4,14:05,15.81,18.42,Detroit; MI,T-Mobile,0,31.804,Mbits/s,Mbits/s
+12/4/14,4,14:05,8.37,17.14,Detroit; MI,Comcast,0,35.783,Mbits/s,Mbits/s
+12/4/14,4,14:06,12.18,15.2,Detroit; MI,T-Mobile,0,29.557,Mbits/s,Mbits/s
+12/4/14,4,14:07,17.5,14.61,Detroit; MI,T-Mobile,0,31.223,Mbits/s,Mbits/s
+12/4/14,4,14:07,17.27,16.84,Cleveland; OH,AT&T,0,35.556,Mbits/s,Mbits/s
+12/4/14,4,14:08,13.23,7.17,Detroit; MI,T-Mobile,0,30.133,Mbits/s,Mbits/s
+12/4/14,4,14:09,16.39,7.87,Detroit; MI,T-Mobile,0,30.827,Mbits/s,Mbits/s
+12/4/14,4,14:09,6.13,13.88,Detroit; MI,Comcast,0,35.803,Mbits/s,Mbits/s
+12/4/14,4,14:10,7.52,18.57,Detroit; MI,AT&T,0,38.518,Mbits/s,Mbits/s
+12/4/14,4,14:11,6.49,10.12,Detroit; MI,T-Mobile,0,29.941,Mbits/s,Mbits/s
+12/4/14,4,14:12,11.94,17.06,Detroit; MI,T-Mobile,0,32.906,Mbits/s,Mbits/s
+12/4/14,4,14:13,10.84,19.04,Cleveland; OH,AT&T,0,35.597,Mbits/s,Mbits/s
+12/4/14,4,14:13,21.81,11.01,Detroit; MI,T-Mobile,0,30.551,Mbits/s,Mbits/s
+12/4/14,4,14:14,14.57,19.49,Detroit; MI,T-Mobile,0,31.879,Mbits/s,Mbits/s
+12/4/14,4,14:15,13.02,12.62,Detroit; MI,T-Mobile,0,30.995,Mbits/s,Mbits/s
+12/4/14,4,14:15,8.59,9.13,Detroit; MI,T-Mobile,0,31.374,Mbits/s,Mbits/s
+12/4/14,4,14:16,9.7,14.94,Detroit; MI,T-Mobile,0,29.739,Mbits/s,Mbits/s
+12/4/14,4,14:16,14.01,15.82,Detroit; MI,T-Mobile,0,30.921,Mbits/s,Mbits/s
+12/4/14,4,14:17,9.73,12.32,Detroit; MI,Comcast,0,34.977,Mbits/s,Mbits/s
+12/4/14,4,14:17,16.59,18.73,Detroit; MI,T-Mobile,0,35.013,Mbits/s,Mbits/s
+12/4/14,4,14:18,7.95,2.89,Detroit; MI,Comcast,0,35.134,Mbits/s,Mbits/s
+12/4/14,4,14:19,12.69,10.6,Detroit; MI,T-Mobile,0,31.65,Mbits/s,Mbits/s
+12/4/14,4,14:20,5.87,10.21,Detroit; MI,T-Mobile,0,31.892,Mbits/s,Mbits/s
+12/4/14,4,14:21,7.16,14.88,Detroit; MI,Comcast,0,35.533,Mbits/s,Mbits/s
+12/4/14,4,14:22,11.53,14,Detroit; MI,T-Mobile,0,31.838,Mbits/s,Mbits/s
+12/4/14,4,14:22,9.82,14.78,Detroit; MI,T-Mobile,0,30.308,Mbits/s,Mbits/s
+12/4/14,4,14:23,7.54,14.51,Detroit; MI,T-Mobile,0,29.254,Mbits/s,Mbits/s
+12/4/14,4,14:24,13.79,11.19,Detroit; MI,T-Mobile,0,29.905,Mbits/s,Mbits/s
+12/4/14,4,14:24,13.95,19.32,Cleveland; OH,AT&T,0,36.079,Mbits/s,Mbits/s
+12/4/14,4,14:25,15.21,15.27,Detroit; MI,T-Mobile,0,30.679,Mbits/s,Mbits/s
+12/4/14,4,14:26,13.14,18.14,Cleveland; OH,AT&T,0,36.209,Mbits/s,Mbits/s
+12/4/14,4,14:27,6.7,13.96,Detroit; MI,T-Mobile,0,30,Mbits/s,Mbits/s
+12/4/14,4,14:28,6.49,17.05,Detroit; MI,AT&T,0,36.549,Mbits/s,Mbits/s
+12/4/14,4,14:28,13.42,13.67,Detroit; MI,T-Mobile,0,30.257,Mbits/s,Mbits/s
+12/4/14,4,14:29,7.73,14.92,Detroit; MI,Comcast,0,38.161,Mbits/s,Mbits/s
+12/4/14,4,14:29,13.28,17.6,Cleveland; OH,AT&T,0,35.399,Mbits/s,Mbits/s
+12/4/14,4,14:30,15.18,13.96,Detroit; MI,T-Mobile,0,30.747,Mbits/s,Mbits/s
+12/4/14,4,14:31,16.56,14.35,Detroit; MI,T-Mobile,0,29.522,Mbits/s,Mbits/s
+12/4/14,4,14:31,11.21,17.94,Cleveland; OH,AT&T,0,35.896,Mbits/s,Mbits/s
+12/4/14,4,14:32,16.2,19.59,Detroit; MI,T-Mobile,0,31.104,Mbits/s,Mbits/s
+12/4/14,4,14:33,14.06,9.99,Detroit; MI,T-Mobile,0,28.278,Mbits/s,Mbits/s
+12/4/14,4,14:34,13.17,13.43,Detroit; MI,T-Mobile,0,30.949,Mbits/s,Mbits/s
+12/4/14,4,14:34,15.07,4.83,Detroit; MI,T-Mobile,0,29.184,Mbits/s,Mbits/s
+12/4/14,4,14:35,10.11,14.31,Detroit; MI,T-Mobile,0,33.017,Mbits/s,Mbits/s
+12/4/14,4,14:36,8.67,8.21,Detroit; MI,T-Mobile,0,30.052,Mbits/s,Mbits/s
+12/4/14,4,14:37,8.42,19.23,Detroit; MI,T-Mobile,0,36.071,Mbits/s,Mbits/s
+12/4/14,4,14:37,8.82,12.23,Detroit; MI,T-Mobile,0,31.527,Mbits/s,Mbits/s
+12/4/14,4,14:38,7.07,9.53,Detroit; MI,Comcast,0,36.791,Mbits/s,Mbits/s
+12/4/14,4,14:39,10.45,15.29,Detroit; MI,T-Mobile,0,31.012,Mbits/s,Mbits/s
+12/4/14,4,14:40,9.23,12.19,Cleveland; OH,AT&T,0,35.957,Mbits/s,Mbits/s
+12/4/14,4,14:41,7.18,13.64,Detroit; MI,Comcast,0,35.414,Mbits/s,Mbits/s
+12/4/14,4,14:41,5.15,6.02,Detroit; MI,Comcast,0,35.722,Mbits/s,Mbits/s
+12/4/14,4,14:42,9.78,15.92,Cleveland; OH,AT&T,0,38.073,Mbits/s,Mbits/s
+12/4/14,4,14:43,9.25,9.13,Detroit; MI,T-Mobile,0,29.682,Mbits/s,Mbits/s
+12/4/14,4,14:43,7.93,17.9,Cleveland; OH,AT&T,0,35.062,Mbits/s,Mbits/s
+12/4/14,4,14:44,10.1,16.73,Cleveland; OH,AT&T,0,36.528,Mbits/s,Mbits/s
+12/4/14,4,14:45,6.64,10.88,Detroit; MI,Comcast,0,35.565,Mbits/s,Mbits/s
+12/4/14,4,14:46,9.46,8.37,Detroit; MI,AT&T,0,36.551,Mbits/s,Mbits/s
+12/4/14,4,14:46,7.33,5.23,Detroit; MI,T-Mobile,0,30.325,Mbits/s,Mbits/s
+12/4/14,4,14:47,11.76,18.11,Detroit; MI,Comcast,0,36.985,Mbits/s,Mbits/s
+12/4/14,4,14:48,10.53,17.43,Detroit; MI,T-Mobile,0,31.01,Mbits/s,Mbits/s
+12/4/14,4,14:49,7.08,20.05,Cleveland; OH,AT&T,0,36.378,Mbits/s,Mbits/s
+12/4/14,4,14:50,7.3,15.44,Cleveland; OH,AT&T,0,36.701,Mbits/s,Mbits/s
+12/4/14,4,14:51,8.18,14.62,Detroit; MI,Comcast,0,37.698,Mbits/s,Mbits/s
+12/4/14,4,14:52,11.62,13.75,Detroit; MI,Comcast,0,35.616,Mbits/s,Mbits/s
+12/4/14,4,14:52,7,18.3,Canton; OH,LightSpeed Technologies,0,51.732,Mbits/s,Mbits/s
+12/4/14,4,14:53,11.95,7.81,Detroit; MI,T-Mobile,0,29.406,Mbits/s,Mbits/s
+12/4/14,4,14:54,11.38,19.27,Detroit; MI,T-Mobile,0,29.545,Mbits/s,Mbits/s
+12/4/14,4,14:55,9.72,5.98,Detroit; MI,T-Mobile,0,33.039,Mbits/s,Mbits/s
+12/4/14,4,14:56,6.57,11.14,Detroit; MI,Comcast,0,35.917,Mbits/s,Mbits/s
+12/4/14,4,14:56,9.82,14.93,Detroit; MI,Comcast,0,36.499,Mbits/s,Mbits/s
+12/4/14,4,14:57,7.92,14.27,Detroit; MI,Comcast,0,35.636,Mbits/s,Mbits/s
+12/4/14,4,14:58,5.1,17.99,Cleveland; OH,AT&T,0,36.822,Mbits/s,Mbits/s
+12/4/14,4,14:59,7.46,9.22,Detroit; MI,T-Mobile,0,28.935,Mbits/s,Mbits/s
+12/4/14,4,15:00,9.77,11.44,Detroit; MI,T-Mobile,0,30.256,Mbits/s,Mbits/s
+12/4/14,4,15:01,13.05,7.4,Detroit; MI,T-Mobile,0,32.059,Mbits/s,Mbits/s
+12/4/14,4,15:02,6.87,3.74,Detroit; MI,Comcast,0,39.213,Mbits/s,Mbits/s
+12/4/14,4,15:03,5.39,15.66,Detroit; MI,T-Mobile,0,28.622,Mbits/s,Mbits/s
+12/4/14,4,15:04,6.76,19.17,Cleveland; OH,AT&T,0,38.228,Mbits/s,Mbits/s
+12/4/14,4,15:05,7.43,17.68,Detroit; MI,AT&T,0,39.094,Mbits/s,Mbits/s
+12/4/14,4,15:06,5.86,8.57,Detroit; MI,T-Mobile,0,30.212,Mbits/s,Mbits/s
+12/4/14,4,15:07,9.38,13.8,Detroit; MI,T-Mobile,0,30.149,Mbits/s,Mbits/s
+12/4/14,4,15:08,5.48,14.13,Detroit; MI,T-Mobile,0,32.453,Mbits/s,Mbits/s
+12/4/14,4,15:09,7.22,10.89,Detroit; MI,T-Mobile,0,29.434,Mbits/s,Mbits/s
+12/4/14,4,15:09,2.93,3.86,Detroit; MI,T-Mobile,0,33.483,Mbits/s,Mbits/s
+12/4/14,4,15:10,7.7,15.19,Cleveland; OH,AT&T,0,35.423,Mbits/s,Mbits/s
+12/4/14,4,16:28,5.8,13.68,Detroit; MI,AT&T,0,38.377,Mbits/s,Mbits/s
+12/4/14,4,16:29,5.94,10.15,Detroit; MI,T-Mobile,0,32.017,Mbits/s,Mbits/s
+12/4/14,4,16:30,5.58,7.92,Detroit; MI,T-Mobile,0,36.788,Mbits/s,Mbits/s
+12/4/14,4,16:31,4.77,15.33,Cleveland; OH,AT&T,0,38.932,Mbits/s,Mbits/s
+12/4/14,4,16:32,4.18,9.12,Cleveland; OH,AT&T,0,36.091,Mbits/s,Mbits/s
+12/4/14,4,16:33,7.78,10.2,Cleveland; OH,AT&T,0,37.869,Mbits/s,Mbits/s
+12/4/14,4,16:34,4.37,7.71,Detroit; MI,Comcast,0,37.395,Mbits/s,Mbits/s
+12/4/14,4,16:34,8.04,12.57,Detroit; MI,T-Mobile,0,29.54,Mbits/s,Mbits/s
+12/4/14,4,16:35,7.02,16.54,Detroit; MI,T-Mobile,0,29.244,Mbits/s,Mbits/s
+12/4/14,4,16:36,7.32,15.77,Detroit; MI,T-Mobile,0,28.639,Mbits/s,Mbits/s
+12/4/14,4,16:37,5.19,3.42,Detroit; MI,T-Mobile,0,31.352,Mbits/s,Mbits/s
+12/4/14,4,16:39,6.41,12.37,Detroit; MI,Comcast,0,35.228,Mbits/s,Mbits/s
+12/4/14,4,16:40,8.44,15.64,Detroit; MI,T-Mobile,0,30.266,Mbits/s,Mbits/s
+12/4/14,4,15:12,7.68,12.78,Detroit; MI,Comcast,0,35.609,Mbits/s,Mbits/s
+12/4/14,4,15:18,0.35,7.1,Detroit; MI,T-Mobile,0,30.804,Mbits/s,Mbits/s
+12/4/14,4,15:18,5.53,13.26,Detroit; MI,T-Mobile,0,33.405,Mbits/s,Mbits/s
+12/4/14,4,15:21,6.5,7.94,Detroit; MI,T-Mobile,0,30.314,Mbits/s,Mbits/s
+12/4/14,4,15:57,2.2,9.3,Detroit; MI,T-Mobile,0,30.297,Mbits/s,Mbits/s
+12/4/14,4,15:58,4.93,16.54,Cleveland; OH,AT&T,0,36.351,Mbits/s,Mbits/s
+12/4/14,4,15:58,2.66,2.06,Detroit; MI,T-Mobile,0,29.651,Mbits/s,Mbits/s
+12/4/14,4,15:59,6.54,12.59,Detroit; MI,AT&T,0,37.265,Mbits/s,Mbits/s
+12/4/14,4,16:04,4.56,14.52,Detroit; MI,AT&T,0,35.459,Mbits/s,Mbits/s
+12/4/14,4,16:06,2.35,7.53,Detroit; MI,T-Mobile,0,31.265,Mbits/s,Mbits/s
+12/4/14,4,16:07,4.08,4.68,Detroit; MI,T-Mobile,0,29.168,Mbits/s,Mbits/s
+12/4/14,4,16:08,3.86,6.25,Detroit; MI,T-Mobile,0,29.692,Mbits/s,Mbits/s
+12/4/14,4,16:10,2.87,8.71,Detroit; MI,T-Mobile,0,30.002,Mbits/s,Mbits/s
+12/4/14,4,16:11,4.17,15.34,Cleveland; OH,AT&T,0,42.228,Mbits/s,Mbits/s
+12/4/14,4,16:14,3.18,1.91,Canton; OH,LightSpeed Technologies,0,56.048,Mbits/s,Mbits/s
+12/4/14,4,16:15,4.12,11.22,Detroit; MI,T-Mobile,0,30.456,Mbits/s,Mbits/s
+12/4/14,4,16:25,3.81,18.55,Canton; OH,LightSpeed Technologies,0,52.994,Mbits/s,Mbits/s
+12/4/14,4,16:26,5.31,4.02,Cleveland; OH,AT&T,0,48.514,Mbits/s,Mbits/s
+12/4/14,4,16:27,4.78,4.34,Detroit; MI,T-Mobile,0,30.428,Mbits/s,Mbits/s
+12/4/14,4,16:41,7.46,12.16,Detroit; MI,Comcast,0,35.755,Mbits/s,Mbits/s
+12/4/14,4,16:41,7.24,16.31,Detroit; MI,AT&T,0,37.165,Mbits/s,Mbits/s
+12/4/14,4,16:42,3.58,7.82,Detroit; MI,Comcast,0,36.653,Mbits/s,Mbits/s
+12/4/14,4,16:43,6.36,12.09,Detroit; MI,T-Mobile,0,30.086,Mbits/s,Mbits/s
+12/4/14,4,16:44,4.38,10.41,Detroit; MI,Comcast,0,36.606,Mbits/s,Mbits/s
+12/4/14,4,16:45,4.95,16.25,Detroit; MI,AT&T,0,35.538,Mbits/s,Mbits/s
+12/4/14,4,16:45,6.13,7.26,Detroit; MI,Comcast,0,36.689,Mbits/s,Mbits/s
+12/4/14,4,16:46,5.26,15.67,Cleveland; OH,AT&T,0,36.073,Mbits/s,Mbits/s
+12/4/2014,4,16:49,5.21,15.61,Detroit; MI,AT&T,0,36.52,Mbits/s,Mbits/s
+12/4/2014,4,16:49,4.65,7.72,Detroit; MI,T-Mobile,0,29.165,Mbits/s,Mbits/s
+12/4/2014,4,16:53,3.21,11.12,Detroit; MI,T-Mobile,0,29.237,Mbits/s,Mbits/s
+12/4/2014,4,16:54,3.49,11.31,Detroit; MI,Comcast,0,36.197,Mbits/s,Mbits/s
+12/4/2014,4,16:56,2.70,13.76,Cleveland; OH,AT&T,0,36.084,Mbits/s,Mbits/s
+12/4/2014,4,16:57,2.97,13.07,Cleveland; OH,AT&T,0,40.673,Mbits/s,Mbits/s
+12/4/2014,4,16:58,2.97,2.03,Detroit; MI,T-Mobile,0,30.917,Mbits/s,Mbits/s
+12/4/2014,4,16:58,3.32,6.41,Detroit; MI,T-Mobile,0,30.004,Mbits/s,Mbits/s
+12/4/2014,4,16:59,4.26,14.45,Detroit; MI,AT&T,0,37.376,Mbits/s,Mbits/s
+12/4/2014,4,17:00,3.24,14.19,Detroit; MI,AT&T,0,38.661,Mbits/s,Mbits/s
+12/4/2014,4,17:01,3.10,9.76,Detroit; MI,Comcast,0,36.128,Mbits/s,Mbits/s
+12/4/2014,4,17:02,3.99,10.52,Detroit; MI,T-Mobile,0,30.899,Mbits/s,Mbits/s
+12/4/2014,4,17:03,4.35,2.41,Detroit; MI,T-Mobile,0,34.668,Mbits/s,Mbits/s
+12/4/2014,4,17:04,4.15,9.93,Detroit; MI,T-Mobile,0,31.578,Mbits/s,Mbits/s
+12/4/2014,4,17:05,2.46,16.94,Canton; OH,LightSpeed Technologies,0,50.615,Mbits/s,Mbits/s
+12/4/2014,4,17:05,5.38,17.65,Cleveland; OH,AT&T,0,35.577,Mbits/s,Mbits/s
+12/4/2014,4,17:06,3.46,5.35,Detroit; MI,T-Mobile,0,29.361,Mbits/s,Mbits/s
+12/4/2014,4,17:07,4.35,10.58,Detroit; MI,Comcast,0,34.45,Mbits/s,Mbits/s
+12/4/2014,4,17:07,4.72,14.11,Detroit; MI,T-Mobile,0,33.661,Mbits/s,Mbits/s
+12/4/2014,4,17:08,3.19,14.32,Detroit; MI,AT&T,0,36.634,Mbits/s,Mbits/s
+12/4/2014,4,17:09,3.39,11.11,Detroit; MI,T-Mobile,0,35.439,Mbits/s,Mbits/s
+12/4/2014,4,17:10,4.80,15.80,Detroit; MI,AT&T,0,36.592,Mbits/s,Mbits/s
+12/4/2014,4,17:12,3.65,7.82,Detroit; MI,T-Mobile,0,30.615,Mbits/s,Mbits/s
+12/4/2014,4,17:12,5.07,15.14,Detroit; MI,AT&T,0,36.832,Mbits/s,Mbits/s
+12/4/2014,4,17:13,4.07,8.55,Cleveland; OH,AT&T,0,36.67,Mbits/s,Mbits/s
+12/4/2014,4,17:14,3.67,7.46,Detroit; MI,T-Mobile,0,29.619,Mbits/s,Mbits/s
+12/4/2014,4,17:15,4.17,6.69,Detroit; MI,T-Mobile,0,29.296,Mbits/s,Mbits/s
+12/4/2014,4,17:16,3.30,10.34,Detroit; MI,T-Mobile,0,29.151,Mbits/s,Mbits/s
+12/4/2014,4,17:17,2.20,7.38,Detroit; MI,T-Mobile,0,30.04,Mbits/s,Mbits/s
+12/4/2014,4,17:18,4.04,15.64,Cleveland; OH,AT&T,0,35.304,Mbits/s,Mbits/s
+12/4/2014,4,17:19,3.53,14.72,Cleveland; OH,AT&T,0,35.398,Mbits/s,Mbits/s
+12/4/2014,4,17:20,2.91,8.71,Detroit; MI,Comcast,0,41.773,Mbits/s,Mbits/s
+12/4/2014,4,17:21,3.93,7.07,Detroit; MI,T-Mobile,0,28.448,Mbits/s,Mbits/s
+12/4/2014,4,17:21,4.64,16.17,Detroit; MI,AT&T,0,36.653,Mbits/s,Mbits/s
+12/4/2014,4,17:22,2.58,11.84,Detroit; MI,T-Mobile,0,28.033,Mbits/s,Mbits/s
+12/4/2014,4,17:23,4.44,10.21,Detroit; MI,T-Mobile,0,32.0,Mbits/s,Mbits/s
+12/4/2014,4,17:24,5.93,12.46,Canton; OH,LightSpeed Technologies,0,54.985,Mbits/s,Mbits/s
+12/4/2014,4,17:25,2.63,11.03,Detroit; MI,T-Mobile,0,29.56,Mbits/s,Mbits/s
+12/4/2014,4,17:26,5.98,4.42,Cleveland; OH,AT&T,0,34.454,Mbits/s,Mbits/s
+12/4/2014,4,17:26,3.54,6.70,Detroit; MI,T-Mobile,0,28.374,Mbits/s,Mbits/s
+12/4/2014,4,17:27,5.44,13.69,Cleveland; OH,AT&T,0,36.719,Mbits/s,Mbits/s
+12/4/2014,4,17:28,5.72,14.05,Detroit; MI,AT&T,0,36.583,Mbits/s,Mbits/s
+12/4/2014,4,17:29,3.77,16.75,Cleveland; OH,AT&T,0,34.252,Mbits/s,Mbits/s
+12/4/2014,4,17:30,3.59,5.62,Detroit; MI,Comcast,0,34.812,Mbits/s,Mbits/s
+12/4/2014,4,17:31,5.09,6.70,Detroit; MI,Comcast,0,35.603,Mbits/s,Mbits/s
+12/4/2014,4,17:31,5.34,12.80,Cleveland; OH,AT&T,0,37.142,Mbits/s,Mbits/s
+12/4/2014,4,17:32,8.14,14.02,Detroit; MI,T-Mobile,0,31.278,Mbits/s,Mbits/s
+12/4/2014,4,17:33,6.10,18.61,Cleveland; OH,AT&T,0,36.102,Mbits/s,Mbits/s
+12/4/2014,4,17:34,4.87,9.70,Detroit; MI,Comcast,0,50.063,Mbits/s,Mbits/s
+12/4/2014,4,17:34,6.97,16.59,Cleveland; OH,AT&T,0,36.309,Mbits/s,Mbits/s
+12/4/2014,4,17:35,9.28,13.12,Detroit; MI,Comcast,0,35.559,Mbits/s,Mbits/s
+12/4/2014,4,17:36,3.97,10.82,Detroit; MI,Comcast,0,34.356,Mbits/s,Mbits/s
+12/4/2014,4,17:37,6.35,13.89,Detroit; MI,AT&T,0,38.571,Mbits/s,Mbits/s
+12/4/2014,4,17:37,6.32,15.73,Cleveland; OH,AT&T,0,37.062,Mbits/s,Mbits/s
+12/4/2014,4,17:38,4.41,11.83,Detroit; MI,Comcast,0,35.617,Mbits/s,Mbits/s
+12/4/2014,4,17:39,4.28,5.28,Detroit; MI,T-Mobile,0,28.818,Mbits/s,Mbits/s
+12/4/2014,4,17:40,4.05,10.53,Detroit; MI,T-Mobile,0,32.904,Mbits/s,Mbits/s
+12/4/2014,4,17:41,3.79,17.70,Cleveland; OH,AT&T,0,36.322,Mbits/s,Mbits/s
+12/4/2014,4,17:42,4.53,18.39,Detroit; MI,AT&T,0,36.677,Mbits/s,Mbits/s
+12/4/2014,4,17:43,4.17,8.15,Detroit; MI,T-Mobile,0,29.07,Mbits/s,Mbits/s
+12/4/2014,4,17:44,4.16,9.02,Detroit; MI,T-Mobile,0,29.902,Mbits/s,Mbits/s
+12/4/2014,4,17:44,4.75,14.04,Cleveland; OH,AT&T,0,35.696,Mbits/s,Mbits/s
+12/4/2014,4,17:46,3.46,7.11,Detroit; MI,T-Mobile,0,29.919,Mbits/s,Mbits/s
+12/4/2014,4,17:46,4.00,11.39,Detroit; MI,T-Mobile,0,29.053,Mbits/s,Mbits/s
+12/4/2014,4,17:47,5.07,5.54,Detroit; MI,T-Mobile,0,31.245,Mbits/s,Mbits/s
+12/4/2014,4,17:48,3.68,7.99,Detroit; MI,Comcast,0,34.819,Mbits/s,Mbits/s
+12/4/2014,4,17:49,4.72,10.39,Detroit; MI,T-Mobile,0,30.061,Mbits/s,Mbits/s
+12/4/2014,4,17:50,5.94,5.11,Detroit; MI,T-Mobile,0,30.341,Mbits/s,Mbits/s
+12/4/2014,4,17:51,3.93,11.90,Detroit; MI,T-Mobile,0,30.318,Mbits/s,Mbits/s
+12/4/2014,4,17:52,3.47,10.13,Detroit; MI,Comcast,0,36.795,Mbits/s,Mbits/s
+12/4/2014,4,17:52,3.48,11.25,Detroit; MI,T-Mobile,0,30.449,Mbits/s,Mbits/s
+12/4/2014,4,17:53,4.79,11.56,Detroit; MI,Comcast,0,35.857,Mbits/s,Mbits/s
+12/4/2014,4,17:54,6.16,11.30,Detroit; MI,Comcast,0,34.369,Mbits/s,Mbits/s
+12/4/2014,4,17:55,4.91,14.02,Cleveland; OH,AT&T,0,38.133,Mbits/s,Mbits/s
+12/4/2014,4,17:55,7.06,18.11,Cleveland; OH,AT&T,0,41.113,Mbits/s,Mbits/s
+12/4/2014,4,17:57,4.21,11.35,Toledo; OH,Amplex,0,51.206,Mbits/s,Mbits/s
+12/4/2014,4,17:57,5.70,15.28,Cleveland; OH,AT&T,0,36.186,Mbits/s,Mbits/s
+12/4/2014,4,17:58,4.52,14.81,Canton; OH,LightSpeed Technologies,0,54.094,Mbits/s,Mbits/s
+12/4/2014,4,17:59,6.44,8.42,Detroit; MI,T-Mobile,0,31.574,Mbits/s,Mbits/s
+12/4/2014,4,18:00,6.92,10.45,Detroit; MI,Comcast,0,36.631,Mbits/s,Mbits/s
+12/4/2014,4,18:00,10.78,12.33,Detroit; MI,T-Mobile,0,29.876,Mbits/s,Mbits/s
+12/4/2014,4,18:01,6.23,17.58,Cleveland; OH,AT&T,0,36.396,Mbits/s,Mbits/s
+12/4/2014,4,18:02,7.86,13.12,Detroit; MI,Comcast,0,37.173,Mbits/s,Mbits/s
+12/4/2014,4,18:02,6.80,15.42,Detroit; MI,T-Mobile,0,30.192,Mbits/s,Mbits/s
+12/4/2014,4,18:03,6.10,14.11,Detroit; MI,Comcast,0,35.772,Mbits/s,Mbits/s
+12/4/2014,4,18:04,10.58,14.13,Detroit; MI,T-Mobile,0,29.824,Mbits/s,Mbits/s
+12/4/2014,4,18:05,9.01,13.65,Detroit; MI,Comcast,0,36.32,Mbits/s,Mbits/s
+12/4/2014,4,18:05,6.13,13.90,Detroit; MI,Comcast,0,34.508,Mbits/s,Mbits/s
+12/4/2014,4,18:06,15.27,13.71,Detroit; MI,T-Mobile,0,32.007,Mbits/s,Mbits/s
+12/4/2014,4,18:07,6.27,7.77,Detroit; MI,T-Mobile,0,32.483,Mbits/s,Mbits/s
+12/4/2014,4,18:08,6.47,13.72,Detroit; MI,Comcast,0,37.721,Mbits/s,Mbits/s
+12/4/2014,4,18:09,3.99,14.38,Detroit; MI,Comcast,0,37.327,Mbits/s,Mbits/s
+12/4/2014,4,18:10,9.08,9.38,Detroit; MI,Comcast,0,34.895,Mbits/s,Mbits/s
+12/4/2014,4,18:10,7.89,13.46,Detroit; MI,AT&T,0,38.036,Mbits/s,Mbits/s
+12/4/2014,4,18:11,6.98,9.19,Detroit; MI,Comcast,0,37.47,Mbits/s,Mbits/s
+12/4/2014,4,18:12,11.81,17.60,Cleveland; OH,AT&T,0,36.217,Mbits/s,Mbits/s
+12/4/2014,4,18:12,8.46,12.85,Detroit; MI,Comcast,0,36.191,Mbits/s,Mbits/s
+12/4/2014,4,18:13,7.20,14.46,Detroit; MI,T-Mobile,0,29.539,Mbits/s,Mbits/s
+12/4/2014,4,18:14,9.86,15.19,Detroit; MI,T-Mobile,0,28.772,Mbits/s,Mbits/s
+12/4/2014,4,18:15,12.57,11.39,Detroit; MI,T-Mobile,0,29.674,Mbits/s,Mbits/s
+12/4/2014,4,18:15,19.20,14.15,Detroit; MI,T-Mobile,0,30.398,Mbits/s,Mbits/s
+12/4/2014,4,18:16,12.22,18.23,Cleveland; OH,AT&T,0,37.169,Mbits/s,Mbits/s
+12/4/2014,4,18:17,9.91,16.74,Cleveland; OH,AT&T,0,36.089,Mbits/s,Mbits/s
+12/4/2014,4,18:18,9.80,7.78,Detroit; MI,Comcast,0,35.686,Mbits/s,Mbits/s
+12/4/2014,4,18:18,8.67,19.23,Detroit; MI,T-Mobile,0,32.605,Mbits/s,Mbits/s
+12/4/2014,4,18:19,12.03,10.19,Detroit; MI,T-Mobile,0,30.224,Mbits/s,Mbits/s
+12/4/2014,4,18:20,9.37,16.93,Detroit; MI,Comcast,0,37.394,Mbits/s,Mbits/s
+12/4/2014,4,18:20,19.20,13.75,Detroit; MI,T-Mobile,0,29.334,Mbits/s,Mbits/s
+12/4/2014,4,18:21,21.12,12.20,Detroit; MI,T-Mobile,0,29.082,Mbits/s,Mbits/s
+12/4/2014,4,18:22,18.25,10.66,Detroit; MI,T-Mobile,0,28.778,Mbits/s,Mbits/s
+12/4/2014,4,18:22,17.31,18.46,Detroit; MI,T-Mobile,0,30.097,Mbits/s,Mbits/s
+12/4/2014,4,18:23,10.78,18.82,Detroit; MI,Comcast,0,36.666,Mbits/s,Mbits/s
+12/4/2014,4,18:23,15.24,14.86,Detroit; MI,T-Mobile,0,31.485,Mbits/s,Mbits/s
+12/4/2014,4,18:24,11.75,3.02,Detroit; MI,T-Mobile,0,29.732,Mbits/s,Mbits/s
+12/4/2014,4,18:25,17.93,18.34,Detroit; MI,T-Mobile,0,29.659,Mbits/s,Mbits/s
+12/4/2014,4,18:25,14.47,15.60,Cleveland; OH,AT&T,0,34.991,Mbits/s,Mbits/s
+12/4/2014,4,18:26,16.54,18.80,Detroit; MI,T-Mobile,0,30.117,Mbits/s,Mbits/s
+12/4/2014,4,18:27,18.41,19.13,Detroit; MI,T-Mobile,0,28.98,Mbits/s,Mbits/s
+12/4/2014,4,18:28,14.97,18.85,Detroit; MI,T-Mobile,0,29.57,Mbits/s,Mbits/s
+12/4/2014,4,18:28,17.34,18.73,Detroit; MI,T-Mobile,0,28.473,Mbits/s,Mbits/s
+12/4/2014,4,18:29,17.93,17.38,Detroit; MI,T-Mobile,0,31.64,Mbits/s,Mbits/s
+12/4/2014,4,18:29,19.19,15.58,Detroit; MI,T-Mobile,0,29.974,Mbits/s,Mbits/s
+12/4/2014,4,18:30,15.99,19.37,Detroit; MI,T-Mobile,0,31.151,Mbits/s,Mbits/s
+12/4/2014,4,18:30,14.02,14.63,Detroit; MI,Comcast,0,36.231,Mbits/s,Mbits/s
+12/4/2014,4,18:31,15.44,10.88,Detroit; MI,T-Mobile,0,29.944,Mbits/s,Mbits/s
+12/4/2014,4,18:32,13.64,10.28,Detroit; MI,T-Mobile,0,29.081,Mbits/s,Mbits/s
+12/4/2014,4,18:32,18.93,19.92,Detroit; MI,T-Mobile,0,30.744,Mbits/s,Mbits/s
+12/4/2014,4,18:33,16.29,13.64,Detroit; MI,T-Mobile,0,31.06,Mbits/s,Mbits/s
+12/4/2014,4,18:33,13.88,14.82,Detroit; MI,T-Mobile,0,32.257,Mbits/s,Mbits/s
+12/4/2014,4,18:34,12.42,11.24,Detroit; MI,Comcast,0,36.053,Mbits/s,Mbits/s
+12/4/2014,4,18:35,16.23,14.73,Detroit; MI,T-Mobile,0,29.46,Mbits/s,Mbits/s
+12/4/2014,4,18:35,15.30,17.28,Detroit; MI,T-Mobile,0,29.607,Mbits/s,Mbits/s
+12/4/2014,4,18:36,18.41,10.27,Detroit; MI,T-Mobile,0,30.311,Mbits/s,Mbits/s
+12/4/2014,4,18:36,19.31,19.45,Detroit; MI,T-Mobile,0,29.276,Mbits/s,Mbits/s
+12/4/2014,4,18:37,19.40,14.35,Detroit; MI,T-Mobile,0,29.137,Mbits/s,Mbits/s
+12/4/2014,4,18:37,19.94,20.24,Detroit; MI,T-Mobile,0,30.895,Mbits/s,Mbits/s
+12/4/2014,4,18:38,16.02,13.57,Detroit; MI,T-Mobile,0,29.298,Mbits/s,Mbits/s
+12/4/2014,4,18:38,12.07,18.62,Detroit; MI,T-Mobile,0,31.009,Mbits/s,Mbits/s
+12/4/2014,4,18:39,17.51,18.71,Detroit; MI,T-Mobile,0,29.105,Mbits/s,Mbits/s
+12/4/2014,4,18:40,13.51,18.70,Detroit; MI,T-Mobile,0,28.279,Mbits/s,Mbits/s
+12/4/2014,4,18:41,10.52,15.08,Detroit; MI,AT&T,0,36.568,Mbits/s,Mbits/s
+12/4/2014,4,18:41,14.56,14.78,Detroit; MI,T-Mobile,0,29.107,Mbits/s,Mbits/s
+12/4/2014,4,18:42,12.24,13.72,Detroit; MI,T-Mobile,0,29.722,Mbits/s,Mbits/s
+12/4/2014,4,18:42,17.81,20.19,Detroit; MI,T-Mobile,0,30.567,Mbits/s,Mbits/s
+12/4/2014,4,18:43,11.36,17.74,Cleveland; OH,AT&T,0,35.78,Mbits/s,Mbits/s
+12/4/2014,4,18:43,14.52,13.72,Detroit; MI,T-Mobile,0,29.93,Mbits/s,Mbits/s
+12/4/2014,4,18:44,14.47,18.66,Cleveland; OH,AT&T,0,36.302,Mbits/s,Mbits/s
+12/4/2014,4,18:45,15.03,14.54,Detroit; MI,T-Mobile,0,30.108,Mbits/s,Mbits/s
+12/4/2014,4,18:45,14.48,18.93,Detroit; MI,T-Mobile,0,29.899,Mbits/s,Mbits/s
+12/4/2014,4,18:46,15.40,13.92,Detroit; MI,T-Mobile,0,28.364,Mbits/s,Mbits/s
+12/4/2014,4,18:47,12.93,7.01,Detroit; MI,Comcast,0,35.68,Mbits/s,Mbits/s
+12/4/2014,4,18:47,14.18,16.10,Detroit; MI,T-Mobile,0,29.408,Mbits/s,Mbits/s
+12/4/2014,4,18:48,8.32,8.14,Detroit; MI,T-Mobile,0,29.601,Mbits/s,Mbits/s
+12/4/2014,4,18:48,10.97,18.14,Detroit; MI,T-Mobile,0,29.86,Mbits/s,Mbits/s
+12/4/2014,4,18:49,10.43,10.23,Detroit; MI,T-Mobile,0,29.697,Mbits/s,Mbits/s
+12/4/2014,4,18:50,9.93,15.98,Detroit; MI,T-Mobile,0,28.948,Mbits/s,Mbits/s
+12/4/2014,4,18:50,10.30,18.41,Detroit; MI,T-Mobile,0,28.233,Mbits/s,Mbits/s
+12/4/2014,4,18:51,17.07,10.47,Detroit; MI,T-Mobile,0,30.218,Mbits/s,Mbits/s
+12/4/2014,4,18:51,16.33,14.29,Detroit; MI,T-Mobile,0,29.113,Mbits/s,Mbits/s
+12/4/2014,4,18:52,13.76,14.55,Detroit; MI,T-Mobile,0,29.979,Mbits/s,Mbits/s
+12/4/2014,4,18:52,10.36,13.00,Detroit; MI,T-Mobile,0,29.719,Mbits/s,Mbits/s
+12/4/2014,4,18:53,10.93,11.36,Detroit; MI,T-Mobile,0,29.25,Mbits/s,Mbits/s
+12/4/2014,4,18:53,11.89,12.30,Detroit; MI,T-Mobile,0,30.656,Mbits/s,Mbits/s
+12/4/2014,4,18:54,16.93,16.55,Detroit; MI,T-Mobile,0,29.101,Mbits/s,Mbits/s
+12/4/2014,4,18:55,5.18,7.58,Detroit; MI,Comcast,0,34.73,Mbits/s,Mbits/s
+12/4/2014,4,18:56,11.51,13.67,Detroit; MI,AT&T,0,36.081,Mbits/s,Mbits/s
+12/4/2014,4,18:56,12.38,9.73,Detroit; MI,T-Mobile,0,28.798,Mbits/s,Mbits/s
+12/4/2014,4,18:57,7.99,18.78,Cleveland; OH,AT&T,0,35.598,Mbits/s,Mbits/s
+12/4/2014,4,18:58,6.10,11.50,Detroit; MI,T-Mobile,0,29.546,Mbits/s,Mbits/s
+12/4/2014,4,18:58,5.03,11.08,Detroit; MI,T-Mobile,0,32.947,Mbits/s,Mbits/s
+12/4/2014,4,18:59,5.52,9.89,Detroit; MI,T-Mobile,0,29.078,Mbits/s,Mbits/s
+12/4/2014,4,19:00,6.09,9.69,Detroit; MI,T-Mobile,0,30.464,Mbits/s,Mbits/s
+12/4/2014,4,19:01,8.09,12.50,Cleveland; OH,AT&T,0,36.1,Mbits/s,Mbits/s
+12/4/2014,4,19:01,12.59,13.83,Detroit; MI,T-Mobile,0,30.919,Mbits/s,Mbits/s
+12/4/2014,4,19:02,7.64,14.15,Detroit; MI,T-Mobile,0,29.87,Mbits/s,Mbits/s
+12/4/2014,4,19:03,12.95,12.95,Detroit; MI,T-Mobile,0,32.18,Mbits/s,Mbits/s
+12/4/2014,4,19:04,12.14,14.70,Detroit; MI,AT&T,0,36.155,Mbits/s,Mbits/s
+12/4/2014,4,19:04,9.03,13.29,Detroit; MI,Comcast,0,36.211,Mbits/s,Mbits/s
+12/4/2014,4,19:05,5.28,14.03,Detroit; MI,Comcast,0,34.925,Mbits/s,Mbits/s
+12/4/2014,4,19:06,8.81,17.07,Detroit; MI,Comcast,0,35.771,Mbits/s,Mbits/s
+12/4/2014,4,19:06,6.71,8.80,Detroit; MI,T-Mobile,0,29.041,Mbits/s,Mbits/s
+12/4/2014,4,19:07,9.94,8.15,Detroit; MI,T-Mobile,0,29.944,Mbits/s,Mbits/s
+12/4/2014,4,19:08,8.44,8.39,Detroit; MI,Comcast,0,36.295,Mbits/s,Mbits/s
+12/4/2014,4,19:09,5.58,11.29,Detroit; MI,Comcast,0,37.218,Mbits/s,Mbits/s
+12/4/2014,4,19:09,9.65,15.60,Cleveland; OH,AT&T,0,40.41,Mbits/s,Mbits/s
+12/4/2014,4,19:10,10.25,16.72,Detroit; MI,T-Mobile,0,30.559,Mbits/s,Mbits/s
+12/4/2014,4,19:11,6.76,7.98,Detroit; MI,T-Mobile,0,30.409,Mbits/s,Mbits/s
+12/4/2014,4,19:12,7.77,13.13,Detroit; MI,Comcast,0,36.215,Mbits/s,Mbits/s
+12/4/2014,4,19:12,12.11,13.99,Detroit; MI,T-Mobile,0,29.6,Mbits/s,Mbits/s
+12/4/2014,4,19:13,7.21,9.93,Detroit; MI,AT&T,0,36.343,Mbits/s,Mbits/s
+12/4/2014,4,19:14,5.56,12.70,Detroit; MI,T-Mobile,0,30.591,Mbits/s,Mbits/s
+12/4/2014,4,19:15,4.53,3.65,Detroit; MI,Comcast,0,35.341,Mbits/s,Mbits/s
+12/4/2014,4,19:15,8.13,13.37,Detroit; MI,T-Mobile,0,27.846,Mbits/s,Mbits/s
+12/4/2014,4,19:16,6.91,16.12,Detroit; MI,Comcast,0,34.284,Mbits/s,Mbits/s
+12/4/2014,4,19:17,4.05,8.57,Detroit; MI,T-Mobile,0,32.378,Mbits/s,Mbits/s
+12/4/2014,4,19:18,4.83,10.61,Detroit; MI,Comcast,0,35.025,Mbits/s,Mbits/s
+12/4/2014,4,19:19,8.39,13.10,Cleveland; OH,AT&T,0,37.51,Mbits/s,Mbits/s
+12/4/2014,4,19:20,7.99,6.91,Detroit; MI,T-Mobile,0,30.498,Mbits/s,Mbits/s
+12/4/2014,4,19:21,5.00,16.83,Detroit; MI,AT&T,0,36.671,Mbits/s,Mbits/s
+12/4/2014,4,19:22,5.30,15.45,Cleveland; OH,AT&T,0,37.514,Mbits/s,Mbits/s
+12/4/2014,4,19:23,6.79,8.33,Detroit; MI,T-Mobile,0,32.268,Mbits/s,Mbits/s
+12/4/2014,4,19:24,7.50,13.55,Detroit; MI,AT&T,0,36.986,Mbits/s,Mbits/s
+12/4/2014,4,19:24,6.41,14.32,Detroit; MI,T-Mobile,0,30.918,Mbits/s,Mbits/s
+12/4/2014,4,19:25,4.94,13.69,Cleveland; OH,AT&T,0,36.128,Mbits/s,Mbits/s
+12/4/2014,4,19:26,4.79,6.86,Detroit; MI,Comcast,0,36.268,Mbits/s,Mbits/s
+12/4/2014,4,19:27,5.05,13.05,Detroit; MI,T-Mobile,0,30.991,Mbits/s,Mbits/s
+12/4/2014,4,19:28,5.53,13.78,Detroit; MI,T-Mobile,0,31.877,Mbits/s,Mbits/s
+12/4/2014,4,19:29,5.27,13.80,Cleveland; OH,AT&T,0,37.833,Mbits/s,Mbits/s
+12/4/2014,4,19:29,5.13,5.54,Detroit; MI,T-Mobile,0,32.039,Mbits/s,Mbits/s
+12/4/2014,4,19:30,5.29,17.33,Detroit; MI,AT&T,0,38.207,Mbits/s,Mbits/s
+12/4/2014,4,19:31,5.56,13.01,Detroit; MI,T-Mobile,0,30.401,Mbits/s,Mbits/s
+12/4/2014,4,19:32,7.74,16.13,Cleveland; OH,AT&T,0,35.291,Mbits/s,Mbits/s
+12/4/2014,4,19:32,6.39,14.85,Detroit; MI,T-Mobile,0,28.819,Mbits/s,Mbits/s
+12/4/2014,4,19:33,4.64,16.94,Detroit; MI,T-Mobile,0,30.082,Mbits/s,Mbits/s
+12/4/2014,4,19:34,4.56,16.44,Cleveland; OH,AT&T,0,37.25,Mbits/s,Mbits/s
+12/4/2014,4,19:35,5.75,16.49,Cleveland; OH,AT&T,0,38.146,Mbits/s,Mbits/s
+12/4/2014,4,19:36,4.12,18.59,Detroit; MI,AT&T,0,36.669,Mbits/s,Mbits/s
+12/4/2014,4,19:37,4.78,15.51,Cleveland; OH,AT&T,0,37.234,Mbits/s,Mbits/s
+12/4/2014,4,19:38,6.40,7.63,Detroit; MI,T-Mobile,0,29.779,Mbits/s,Mbits/s
+12/4/2014,4,19:39,3.86,16.39,Cleveland; OH,AT&T,0,38.895,Mbits/s,Mbits/s
+12/4/2014,4,19:40,3.67,7.92,Detroit; MI,Comcast,0,35.285,Mbits/s,Mbits/s
+12/4/2014,4,19:41,4.76,6.90,Detroit; MI,T-Mobile,0,29.812,Mbits/s,Mbits/s
+12/4/2014,4,19:41,3.52,10.35,Detroit; MI,T-Mobile,0,28.855,Mbits/s,Mbits/s
+12/4/2014,4,19:42,4.39,14.96,Cleveland; OH,AT&T,0,35.662,Mbits/s,Mbits/s
+12/4/2014,4,19:43,5.86,11.03,Detroit; MI,T-Mobile,0,30.255,Mbits/s,Mbits/s
+12/4/2014,4,19:44,3.73,12.82,Detroit; MI,AT&T,0,37.598,Mbits/s,Mbits/s
+12/4/2014,4,19:45,3.19,5.61,Detroit; MI,T-Mobile,0,30.517,Mbits/s,Mbits/s
+12/4/2014,4,19:46,4.15,8.92,Detroit; MI,T-Mobile,0,30.341,Mbits/s,Mbits/s
+12/4/2014,4,19:47,3.17,6.89,Canton; OH,LightSpeed Technologies,0,51.142,Mbits/s,Mbits/s
+12/4/2014,4,19:49,2.64,13.44,Canton; OH,LightSpeed Technologies,0,51.224,Mbits/s,Mbits/s
+12/4/2014,4,19:50,2.77,5.50,Detroit; MI,Comcast,0,36.255,Mbits/s,Mbits/s
+12/4/2014,4,19:51,3.95,8.89,Detroit; MI,T-Mobile,0,32.428,Mbits/s,Mbits/s
+12/4/2014,4,19:52,3.74,5.52,Detroit; MI,Comcast,0,35.741,Mbits/s,Mbits/s
+12/4/2014,4,19:53,3.62,11.65,Detroit; MI,Comcast,0,37.388,Mbits/s,Mbits/s
+12/4/2014,4,19:54,3.76,6.93,Detroit; MI,T-Mobile,0,29.819,Mbits/s,Mbits/s
+12/4/2014,4,19:55,4.30,3.36,Detroit; MI,T-Mobile,0,29.886,Mbits/s,Mbits/s
+12/4/2014,4,19:56,3.73,16.05,Cleveland; OH,AT&T,0,36.182,Mbits/s,Mbits/s
+12/4/2014,4,19:56,4.90,4.45,Detroit; MI,T-Mobile,0,29.794,Mbits/s,Mbits/s
+12/4/2014,4,19:58,2.86,16.17,Cleveland; OH,AT&T,0,37.482,Mbits/s,Mbits/s
+12/4/2014,4,19:59,3.47,9.83,Detroit; MI,Comcast,0,37.525,Mbits/s,Mbits/s
+12/4/2014,4,20:00,3.15,3.15,Detroit; MI,Comcast,0,36.002,Mbits/s,Mbits/s
+12/4/2014,4,20:00,4.46,10.55,Detroit; MI,Comcast,0,36.881,Mbits/s,Mbits/s
+12/4/2014,4,20:01,4.41,15.45,Cleveland; OH,AT&T,0,37.41,Mbits/s,Mbits/s
+12/4/2014,4,20:02,3.57,13.65,Detroit; MI,Comcast,0,36.951,Mbits/s,Mbits/s
+12/4/2014,4,20:03,4.08,9.79,Detroit; MI,T-Mobile,0,33.013,Mbits/s,Mbits/s
+12/4/2014,4,20:04,3.16,13.49,Canton; OH,LightSpeed Technologies,0,52.836,Mbits/s,Mbits/s
+12/4/2014,4,20:05,3.78,16.14,Toledo; OH,Amplex,0,56.024,Mbits/s,Mbits/s
+12/4/2014,4,20:06,4.19,5.53,Detroit; MI,T-Mobile,0,29.948,Mbits/s,Mbits/s
+12/4/2014,4,20:07,3.09,12.44,Detroit; MI,AT&T,0,37.105,Mbits/s,Mbits/s
+12/4/2014,4,20:08,4.59,18.14,Detroit; MI,T-Mobile,0,29.168,Mbits/s,Mbits/s
+12/4/2014,4,20:09,2.87,10.59,Detroit; MI,Comcast,0,35.82,Mbits/s,Mbits/s
+12/4/2014,4,20:11,2.87,7.20,Detroit; MI,T-Mobile,0,32.087,Mbits/s,Mbits/s
+12/4/2014,4,20:11,6.08,13.69,Cleveland; OH,AT&T,0,37.253,Mbits/s,Mbits/s
+12/4/2014,4,20:12,4.25,8.74,Detroit; MI,T-Mobile,0,29.37,Mbits/s,Mbits/s
+12/4/2014,4,20:13,5.68,9.98,Detroit; MI,AT&T,0,40.84,Mbits/s,Mbits/s
+12/4/2014,4,20:14,2.99,2.92,Detroit; MI,Comcast,0,36.411,Mbits/s,Mbits/s
+12/4/2014,4,20:15,3.25,12.47,Detroit; MI,T-Mobile,0,30.991,Mbits/s,Mbits/s
+12/4/2014,4,20:16,4.75,15.96,Cleveland; OH,AT&T,0,36.369,Mbits/s,Mbits/s
+12/4/2014,4,20:17,4.00,13.91,Detroit; MI,AT&T,0,36.147,Mbits/s,Mbits/s
+12/4/2014,4,20:18,4.82,13.10,Detroit; MI,AT&T,0,35.716,Mbits/s,Mbits/s
+12/4/2014,4,20:19,3.55,8.66,Detroit; MI,T-Mobile,0,31.523,Mbits/s,Mbits/s
+12/4/2014,4,20:20,2.42,17.97,Cleveland; OH,AT&T,0,36.291,Mbits/s,Mbits/s
+12/4/2014,4,20:21,2.25,12.62,Detroit; MI,AT&T,0,39.175,Mbits/s,Mbits/s
+12/4/2014,4,20:22,1.80,8.81,Detroit; MI,Comcast,0,50.569,Mbits/s,Mbits/s
+12/4/2014,4,20:22,4.55,4.36,Detroit; MI,T-Mobile,0,30.459,Mbits/s,Mbits/s
+12/4/2014,4,20:23,4.28,16.15,Cleveland; OH,AT&T,0,36.746,Mbits/s,Mbits/s
+12/4/2014,4,20:24,2.78,2.87,Detroit; MI,Comcast,0,37.523,Mbits/s,Mbits/s
+12/4/2014,4,20:25,3.05,7.87,Canton; OH,LightSpeed Technologies,0,51.715,Mbits/s,Mbits/s
+12/4/2014,4,20:26,3.88,8.53,Detroit; MI,T-Mobile,0,32.408,Mbits/s,Mbits/s
+12/4/2014,4,20:28,3.36,5.84,Detroit; MI,T-Mobile,0,30.223,Mbits/s,Mbits/s
+12/4/2014,4,20:29,2.38,3.43,Detroit; MI,T-Mobile,0,28.778,Mbits/s,Mbits/s
+12/4/2014,4,20:30,3.89,16.58,Detroit; MI,AT&T,0,38.947,Mbits/s,Mbits/s
+12/4/2014,4,20:31,1.90,9.73,Detroit; MI,T-Mobile,0,31.733,Mbits/s,Mbits/s
+12/4/2014,4,20:31,2.64,7.18,Detroit; MI,T-Mobile,0,29.398,Mbits/s,Mbits/s
+12/4/2014,4,20:32,3.53,14.76,Cleveland; OH,AT&T,0,77.377,Mbits/s,Mbits/s
+12/4/2014,4,20:33,3.93,17.03,Cleveland; OH,AT&T,0,36.025,Mbits/s,Mbits/s
+12/4/2014,4,20:34,3.55,8.95,Detroit; MI,Comcast,0,34.768,Mbits/s,Mbits/s
+12/4/2014,4,20:35,3.96,19.09,Cleveland; OH,AT&T,0,35.854,Mbits/s,Mbits/s
+12/4/2014,4,20:36,4.18,9.24,Detroit; MI,T-Mobile,0,28.792,Mbits/s,Mbits/s
+12/4/2014,4,20:37,3.18,13.83,Cleveland; OH,AT&T,0,35.459,Mbits/s,Mbits/s
+12/4/2014,4,20:38,3.51,13.84,Detroit; MI,T-Mobile,0,31.202,Mbits/s,Mbits/s
+12/4/2014,4,20:39,3.76,15.57,Detroit; MI,AT&T,0,38.007,Mbits/s,Mbits/s
+12/4/2014,4,20:40,4.44,11.29,Detroit; MI,T-Mobile,0,29.18,Mbits/s,Mbits/s
+12/4/2014,4,20:41,4.24,6.46,Detroit; MI,T-Mobile,0,30.16,Mbits/s,Mbits/s
+12/4/2014,4,20:42,2.96,13.81,Cleveland; OH,AT&T,0,36.348,Mbits/s,Mbits/s
+12/4/2014,4,20:43,3.22,17.66,Cleveland; OH,AT&T,0,35.112,Mbits/s,Mbits/s
+12/4/2014,4,20:44,3.29,9.51,Detroit; MI,Comcast,0,37.635,Mbits/s,Mbits/s
+12/4/2014,4,20:45,4.40,11.53,Detroit; MI,T-Mobile,0,29.49,Mbits/s,Mbits/s
+12/4/2014,4,20:46,2.96,16.18,Canton; OH,LightSpeed Technologies,0,51.535,Mbits/s,Mbits/s
+12/4/2014,4,20:47,1.75,5.39,Detroit; MI,T-Mobile,0,30.469,Mbits/s,Mbits/s
+12/4/2014,4,20:48,4.42,5.33,Detroit; MI,T-Mobile,0,29.175,Mbits/s,Mbits/s
+12/4/2014,4,20:49,2.96,6.96,Detroit; MI,Comcast,0,36.791,Mbits/s,Mbits/s
+12/4/2014,4,20:50,3.01,5.82,Detroit; MI,Comcast,0,35.157,Mbits/s,Mbits/s
+12/4/2014,4,20:51,4.63,16.05,Detroit; MI,AT&T,0,36.242,Mbits/s,Mbits/s
+12/4/2014,4,20:52,3.79,18.83,Detroit; MI,AT&T,0,36.803,Mbits/s,Mbits/s
+12/4/2014,4,20:53,3.47,3.17,Detroit; MI,T-Mobile,0,29.725,Mbits/s,Mbits/s
+12/4/2014,4,20:54,3.43,16.31,Cleveland; OH,AT&T,0,36.253,Mbits/s,Mbits/s
+12/4/2014,4,20:55,2.35,12.34,Canton; OH,LightSpeed Technologies,0,54.762,Mbits/s,Mbits/s
+12/4/2014,4,20:56,3.87,17.37,Cleveland; OH,AT&T,0,169.822,Mbits/s,Mbits/s
+12/4/2014,4,20:57,1.83,4.28,Detroit; MI,T-Mobile,0,31.144,Mbits/s,Mbits/s
+12/4/2014,4,20:58,3.65,17.69,Detroit; MI,AT&T,0,35.698,Mbits/s,Mbits/s
+12/4/2014,4,20:58,2.56,7.41,Detroit; MI,T-Mobile,0,29.605,Mbits/s,Mbits/s
+12/4/2014,4,20:59,5.07,16.92,Cleveland; OH,AT&T,0,37.54,Mbits/s,Mbits/s
+12/4/2014,4,21:00,4.14,6.85,Detroit; MI,T-Mobile,0,30.441,Mbits/s,Mbits/s
+12/4/2014,4,21:01,5.22,13.79,Cleveland; OH,AT&T,0,39.56,Mbits/s,Mbits/s
+12/4/2014,4,21:02,4.50,17.16,Cleveland; OH,AT&T,0,36.365,Mbits/s,Mbits/s
+12/4/2014,4,21:02,6.12,18.79,Detroit; MI,AT&T,0,35.904,Mbits/s,Mbits/s
+12/4/2014,4,21:03,3.47,7.99,Detroit; MI,Comcast,0,35.4,Mbits/s,Mbits/s
+12/4/2014,4,21:04,1.50,7.63,Detroit; MI,T-Mobile,0,29.096,Mbits/s,Mbits/s
+12/4/2014,4,21:05,3.76,7.25,Detroit; MI,Comcast,0,35.059,Mbits/s,Mbits/s
+12/4/2014,4,21:06,3.32,2.59,Detroit; MI,T-Mobile,0,34.456,Mbits/s,Mbits/s
+12/4/2014,4,21:07,4.30,12.79,Detroit; MI,AT&T,0,36.583,Mbits/s,Mbits/s
+12/4/2014,4,21:08,4.06,9.15,Detroit; MI,T-Mobile,0,33.016,Mbits/s,Mbits/s
+12/4/2014,4,21:08,4.75,17.16,Detroit; MI,AT&T,0,37.617,Mbits/s,Mbits/s
+12/4/2014,4,21:09,2.67,5.06,Detroit; MI,T-Mobile,0,30.558,Mbits/s,Mbits/s
+12/4/2014,4,21:10,4.47,17.51,Detroit; MI,AT&T,0,38.912,Mbits/s,Mbits/s
+12/4/2014,4,21:11,2.83,4.98,Detroit; MI,Comcast,0,36.528,Mbits/s,Mbits/s
+12/4/2014,4,21:12,3.03,14.42,Cleveland; OH,AT&T,0,36.556,Mbits/s,Mbits/s
+12/4/2014,4,21:13,2.84,5.95,Toledo; OH,Amplex,0,52.828,Mbits/s,Mbits/s
+12/4/2014,4,21:14,3.53,10.39,Cleveland; OH,AT&T,0,36.785,Mbits/s,Mbits/s
+12/4/2014,4,21:15,4.20,12.80,Detroit; MI,AT&T,0,37.384,Mbits/s,Mbits/s
+12/4/2014,4,21:16,2.97,3.87,Detroit; MI,T-Mobile,0,30.147,Mbits/s,Mbits/s
+12/4/2014,4,21:17,4.87,13.34,Cleveland; OH,AT&T,0,36.097,Mbits/s,Mbits/s
+12/4/2014,4,21:18,3.62,16.02,Cleveland; OH,AT&T,0,35.339,Mbits/s,Mbits/s
+12/4/2014,4,21:19,2.44,4.97,Detroit; MI,T-Mobile,0,33.767,Mbits/s,Mbits/s
+12/4/2014,4,21:20,2.74,6.96,Detroit; MI,Comcast,0,36.907,Mbits/s,Mbits/s
+12/4/2014,4,21:21,3.44,4.95,Detroit; MI,T-Mobile,0,32.515,Mbits/s,Mbits/s
+12/4/2014,4,21:23,2.31,3.19,Detroit; MI,T-Mobile,0,31.667,Mbits/s,Mbits/s
+12/4/2014,4,21:23,3.99,15.27,Detroit; MI,AT&T,0,36.739,Mbits/s,Mbits/s
+12/4/2014,4,21:24,3.39,2.62,Canton; OH,LightSpeed Technologies,0,51.42,Mbits/s,Mbits/s
+12/4/2014,4,21:25,4.21,3.16,Detroit; MI,T-Mobile,0,31.603,Mbits/s,Mbits/s
+12/4/2014,4,21:26,4.08,7.41,Detroit; MI,Comcast,0,36.357,Mbits/s,Mbits/s
+12/4/2014,4,21:27,5.75,4.19,Detroit; MI,T-Mobile,0,29.248,Mbits/s,Mbits/s
+12/4/2014,4,21:28,6.20,14.59,Detroit; MI,AT&T,0,77.595,Mbits/s,Mbits/s
+12/4/2014,4,21:29,3.94,15.66,Cleveland; OH,AT&T,0,36.486,Mbits/s,Mbits/s
+12/4/2014,4,21:29,4.92,7.31,Detroit; MI,T-Mobile,0,33.268,Mbits/s,Mbits/s
+12/4/2014,4,21:30,3.78,3.07,Detroit; MI,T-Mobile,0,30.592,Mbits/s,Mbits/s
+12/4/2014,4,21:31,3.51,12.83,Detroit; MI,Comcast,0,36.443,Mbits/s,Mbits/s
+12/4/2014,4,21:33,2.79,9.78,Detroit; MI,Comcast,0,36.633,Mbits/s,Mbits/s
+12/4/2014,4,21:34,2.69,16.62,Cleveland; OH,AT&T,0,36.071,Mbits/s,Mbits/s
+12/4/2014,4,21:35,2.93,4.96,Detroit; MI,Comcast,0,38.294,Mbits/s,Mbits/s
+12/4/2014,4,21:36,3.69,9.74,Detroit; MI,T-Mobile,0,30.331,Mbits/s,Mbits/s
+12/4/2014,4,21:36,4.73,6.78,Detroit; MI,T-Mobile,0,29.759,Mbits/s,Mbits/s
+12/4/2014,4,21:37,2.47,15.50,Canton; OH,LightSpeed Technologies,0,53.754,Mbits/s,Mbits/s
+12/4/2014,4,21:38,7.33,8.30,Detroit; MI,T-Mobile,0,27.837,Mbits/s,Mbits/s
+12/4/2014,4,21:39,3.68,12.08,Detroit; MI,Comcast,0,35.794,Mbits/s,Mbits/s
+12/4/2014,4,21:40,3.33,7.59,Cleveland; OH,AT&T,0,97.481,Mbits/s,Mbits/s
+12/4/2014,4,21:41,4.36,8.59,Detroit; MI,T-Mobile,0,31.882,Mbits/s,Mbits/s
+12/4/2014,4,21:42,4.71,12.73,Detroit; MI,AT&T,0,36.094,Mbits/s,Mbits/s
+12/4/2014,4,21:43,4.79,14.03,Detroit; MI,AT&T,0,37.529,Mbits/s,Mbits/s
+12/4/2014,4,21:43,2.01,5.33,Detroit; MI,T-Mobile,0,30.534,Mbits/s,Mbits/s
+12/4/2014,4,21:44,2.52,11.26,Detroit; MI,T-Mobile,0,31.485,Mbits/s,Mbits/s
+12/4/2014,4,21:45,6.48,13.93,Cleveland; OH,AT&T,0,38.147,Mbits/s,Mbits/s
+12/4/2014,4,21:46,4.14,9.57,Detroit; MI,T-Mobile,0,28.86,Mbits/s,Mbits/s
+12/4/2014,4,21:47,4.01,16.37,Cleveland; OH,AT&T,0,35.45,Mbits/s,Mbits/s
+12/4/2014,4,21:48,3.23,13.30,Detroit; MI,T-Mobile,0,29.175,Mbits/s,Mbits/s
+12/4/2014,4,21:48,5.44,14.15,Detroit; MI,AT&T,0,39.128,Mbits/s,Mbits/s
+12/4/2014,4,21:49,3.40,10.44,Detroit; MI,Comcast,0,34.589,Mbits/s,Mbits/s
+12/4/2014,4,21:51,3.26,2.56,Detroit; MI,T-Mobile,0,30.363,Mbits/s,Mbits/s
+12/4/2014,4,21:51,4.18,6.55,Detroit; MI,Comcast,0,35.918,Mbits/s,Mbits/s
+12/4/2014,4,21:53,3.97,8.63,Cleveland; OH,AT&T,0,35.117,Mbits/s,Mbits/s
+12/4/2014,4,21:54,7.45,0.74,Detroit; MI,T-Mobile,0,31.059,Mbits/s,Mbits/s
+12/4/2014,4,21:55,3.35,5.20,Detroit; MI,Comcast,0,35.129,Mbits/s,Mbits/s
+12/4/2014,4,21:56,4.93,7.61,Detroit; MI,T-Mobile,0,30.218,Mbits/s,Mbits/s
+12/4/2014,4,21:57,3.86,4.67,Detroit; MI,T-Mobile,0,32.636,Mbits/s,Mbits/s
+12/4/2014,4,21:58,3.78,14.48,Cleveland; OH,AT&T,0,35.625,Mbits/s,Mbits/s
+12/4/2014,4,21:59,4.24,8.36,Detroit; MI,T-Mobile,0,29.775,Mbits/s,Mbits/s
+12/4/2014,4,22:00,5.69,13.69,Detroit; MI,AT&T,0,37.385,Mbits/s,Mbits/s
+12/4/2014,4,22:01,3.43,7.69,Detroit; MI,T-Mobile,0,31.466,Mbits/s,Mbits/s
+12/4/2014,4,22:02,3.58,14.60,Detroit; MI,Comcast,0,37.325,Mbits/s,Mbits/s
+12/4/2014,4,22:02,4.95,3.51,Detroit; MI,T-Mobile,0,29.72,Mbits/s,Mbits/s
+12/4/2014,4,22:03,5.71,16.51,Detroit; MI,T-Mobile,0,29.553,Mbits/s,Mbits/s
+12/4/2014,4,22:04,3.90,15.62,Cleveland; OH,AT&T,0,35.521,Mbits/s,Mbits/s
+12/4/2014,4,22:05,4.75,6.85,Detroit; MI,T-Mobile,0,29.868,Mbits/s,Mbits/s
+12/4/2014,4,22:06,2.71,2.81,Detroit; MI,Comcast,0,35.399,Mbits/s,Mbits/s
+12/4/2014,4,22:07,3.97,8.44,Detroit; MI,T-Mobile,0,30.253,Mbits/s,Mbits/s
+12/4/2014,4,22:07,4.15,7.88,Detroit; MI,T-Mobile,0,32.204,Mbits/s,Mbits/s
+12/4/2014,4,22:08,4.33,15.26,Detroit; MI,AT&T,0,37.122,Mbits/s,Mbits/s
+12/4/2014,4,22:09,7.93,16.95,Detroit; MI,AT&T,0,40.118,Mbits/s,Mbits/s
+12/4/2014,4,22:09,4.34,12.24,Detroit; MI,T-Mobile,0,30.966,Mbits/s,Mbits/s
+12/4/2014,4,22:11,2.12,8.69,Detroit; MI,Comcast,0,35.696,Mbits/s,Mbits/s
+12/4/2014,4,22:11,2.97,7.02,Detroit; MI,T-Mobile,0,29.96,Mbits/s,Mbits/s
+12/4/2014,4,22:12,2.32,2.96,Detroit; MI,T-Mobile,0,29.589,Mbits/s,Mbits/s
+12/4/2014,4,22:13,1.47,2.71,Detroit; MI,T-Mobile,0,29.482,Mbits/s,Mbits/s
+12/4/2014,4,22:14,4.24,13.15,Cleveland; OH,AT&T,0,38.011,Mbits/s,Mbits/s
+12/4/2014,4,22:15,4.59,5.68,Detroit; MI,T-Mobile,0,31.3,Mbits/s,Mbits/s
+12/4/2014,4,22:15,3.75,15.49,Cleveland; OH,AT&T,0,35.548,Mbits/s,Mbits/s
+12/4/2014,4,22:16,4.84,9.83,Detroit; MI,Comcast,0,34.987,Mbits/s,Mbits/s
+12/4/2014,4,22:17,4.41,13.50,Cleveland; OH,AT&T,0,38.486,Mbits/s,Mbits/s
+12/4/2014,4,22:18,5.83,14.15,Cleveland; OH,AT&T,0,35.719,Mbits/s,Mbits/s
+12/4/2014,4,22:19,3.32,14.89,Canton; OH,LightSpeed Technologies,0,54.217,Mbits/s,Mbits/s
+12/4/2014,4,22:19,4.75,11.96,Detroit; MI,T-Mobile,0,30.539,Mbits/s,Mbits/s
+12/4/2014,4,22:21,4.29,8.28,Detroit; MI,T-Mobile,0,30.185,Mbits/s,Mbits/s
+12/4/2014,4,22:22,4.25,14.41,Cleveland; OH,AT&T,0,37.58,Mbits/s,Mbits/s
+12/4/2014,4,22:23,5.71,17.22,Detroit; MI,AT&T,0,37.553,Mbits/s,Mbits/s
+12/4/2014,4,22:24,5.32,2.58,Detroit; MI,T-Mobile,0,35.107,Mbits/s,Mbits/s
+12/4/2014,4,22:25,3.77,6.96,Detroit; MI,Comcast,0,36.512,Mbits/s,Mbits/s
+12/4/2014,4,22:26,4.60,15.35,Cleveland; OH,AT&T,0,36.604,Mbits/s,Mbits/s
+12/4/2014,4,22:27,4.79,14.44,Cleveland; OH,AT&T,0,38.276,Mbits/s,Mbits/s
+12/4/2014,4,22:28,4.43,7.18,Detroit; MI,Comcast,0,35.944,Mbits/s,Mbits/s
+12/4/2014,4,22:28,5.24,10.87,Detroit; MI,Comcast,0,36.296,Mbits/s,Mbits/s
+12/4/2014,4,22:30,3.70,7.47,Detroit; MI,T-Mobile,0,28.856,Mbits/s,Mbits/s
+12/4/2014,4,22:31,3.80,8.84,Detroit; MI,Comcast,0,34.806,Mbits/s,Mbits/s
+12/4/2014,4,22:31,5.17,8.78,Detroit; MI,Comcast,0,36.172,Mbits/s,Mbits/s
+12/4/2014,4,22:32,4.63,5.47,Detroit; MI,T-Mobile,0,28.916,Mbits/s,Mbits/s
+12/4/2014,4,22:34,2.99,11.62,Detroit; MI,T-Mobile,0,32.082,Mbits/s,Mbits/s
+12/4/2014,4,22:34,5.08,14.71,Cleveland; OH,AT&T,0,35.923,Mbits/s,Mbits/s
+12/4/2014,4,22:35,3.51,9.62,Detroit; MI,Comcast,0,34.112,Mbits/s,Mbits/s
+12/4/2014,4,22:36,4.26,15.75,Detroit; MI,Comcast,0,35.583,Mbits/s,Mbits/s
+12/4/2014,4,22:37,3.87,7.13,Detroit; MI,Comcast,0,35.338,Mbits/s,Mbits/s
+12/4/2014,4,22:38,4.23,10.02,Detroit; MI,T-Mobile,0,29.51,Mbits/s,Mbits/s
+12/4/2014,4,22:39,5.46,5.49,Detroit; MI,T-Mobile,0,28.652,Mbits/s,Mbits/s
+12/4/2014,4,22:39,1.65,5.03,Detroit; MI,Comcast,0,34.753,Mbits/s,Mbits/s
+12/4/2014,4,22:40,2.80,14.66,Cleveland; OH,AT&T,0,37.092,Mbits/s,Mbits/s
+12/4/2014,4,22:41,3.61,7.76,Detroit; MI,Comcast,0,34.71,Mbits/s,Mbits/s
+12/4/2014,4,22:42,4.55,17.11,Cleveland; OH,AT&T,0,35.864,Mbits/s,Mbits/s
+12/4/2014,4,22:43,2.70,15.66,Canton; OH,LightSpeed Technologies,0,52.04,Mbits/s,Mbits/s
+12/4/2014,4,22:44,4.20,15.16,Detroit; MI,AT&T,0,37.299,Mbits/s,Mbits/s
+12/4/2014,4,22:46,2.40,5.02,Detroit; MI,T-Mobile,0,29.108,Mbits/s,Mbits/s
+12/4/2014,4,22:47,2.44,3.74,Detroit; MI,Comcast,0,35.809,Mbits/s,Mbits/s
+12/4/2014,4,22:48,4.07,10.61,Detroit; MI,AT&T,0,36.531,Mbits/s,Mbits/s
+12/4/2014,4,22:49,5.64,12.23,Detroit; MI,AT&T,0,39.949,Mbits/s,Mbits/s
+12/4/2014,4,22:50,4.14,11.32,Detroit; MI,Comcast,0,37.371,Mbits/s,Mbits/s
+12/4/2014,4,22:51,3.77,5.91,Cleveland; OH,AT&T,0,143.679,Mbits/s,Mbits/s
+12/4/2014,4,22:52,3.65,16.49,Cleveland; OH,AT&T,0,45.27,Mbits/s,Mbits/s
+12/4/2014,4,22:52,3.58,2.41,Detroit; MI,T-Mobile,0,29.317,Mbits/s,Mbits/s
+12/4/2014,4,22:53,1.39,10.92,Detroit; MI,T-Mobile,0,28.813,Mbits/s,Mbits/s
+12/4/2014,4,22:54,2.31,3.20,Detroit; MI,T-Mobile,0,37.96,Mbits/s,Mbits/s
+12/4/2014,4,22:55,2.01,4.76,Detroit; MI,T-Mobile,0,34.945,Mbits/s,Mbits/s
+12/4/2014,4,22:56,2.03,9.41,Canton; OH,LightSpeed Technologies,0,59.171,Mbits/s,Mbits/s
+12/4/2014,4,22:57,2.96,6.21,Detroit; MI,T-Mobile,0,28.728,Mbits/s,Mbits/s
+12/4/2014,4,22:58,2.53,3.75,Detroit; MI,AT&T,0,44.214,Mbits/s,Mbits/s
+12/4/2014,4,22:59,2.23,4.60,Detroit; MI,Comcast,0,36.72,Mbits/s,Mbits/s
+12/4/2014,4,23:00,3.32,6.08,Detroit; MI,T-Mobile,0,45.622,Mbits/s,Mbits/s
+12/4/2014,4,23:01,3.96,9.37,Detroit; MI,Comcast,0,51.882,Mbits/s,Mbits/s
+12/4/2014,4,23:01,2.64,2.63,Detroit; MI,T-Mobile,0,46.81,Mbits/s,Mbits/s
+12/4/2014,4,23:03,2.49,3.76,Detroit; MI,Comcast,0,41.827,Mbits/s,Mbits/s
+12/4/2014,4,23:04,1.50,0.66,Detroit; MI,T-Mobile,0,43.766,Mbits/s,Mbits/s
+12/4/2014,4,23:05,2.00,2.85,Detroit; MI,T-Mobile,0,35.97,Mbits/s,Mbits/s
+12/4/2014,4,23:06,2.97,3.22,Detroit; MI,Comcast,0,47.749,Mbits/s,Mbits/s
+12/4/2014,4,23:07,2.80,6.63,Detroit; MI,Comcast,0,42.872,Mbits/s,Mbits/s
+12/4/2014,4,23:08,1.88,2.85,Detroit; MI,T-Mobile,0,36.762,Mbits/s,Mbits/s
+12/4/2014,4,23:09,3.38,7.08,Detroit; MI,T-Mobile,0,36.196,Mbits/s,Mbits/s
+12/4/2014,4,23:10,3.33,6.12,Canton; OH,LightSpeed Technologies,0,61.176,Mbits/s,Mbits/s
+12/4/2014,4,23:11,2.38,5.26,Toledo; OH,Amplex,0,83.453,Mbits/s,Mbits/s
+12/4/2014,4,23:12,1.87,8.40,Detroit; MI,Comcast,0,42.876,Mbits/s,Mbits/s
+12/4/2014,4,23:13,1.59,7.36,Detroit; MI,Comcast,0,40.76,Mbits/s,Mbits/s
+12/4/2014,4,23:14,2.77,9.85,Cleveland; OH,AT&T,0,41.557,Mbits/s,Mbits/s
+12/4/2014,4,23:15,1.15,5.62,Cleveland; OH,AT&T,0,56.217,Mbits/s,Mbits/s
+12/4/2014,4,23:16,1.99,2.84,Detroit; MI,T-Mobile,0,58.021,Mbits/s,Mbits/s
+12/4/2014,4,23:17,3.25,9.92,Detroit; MI,AT&T,0,40.601,Mbits/s,Mbits/s
+12/4/2014,4,23:18,2.27,1.89,Detroit; MI,Comcast,0,43.303,Mbits/s,Mbits/s
+12/4/2014,4,23:19,2.30,8.01,Detroit; MI,AT&T,0,40.142,Mbits/s,Mbits/s
+12/4/2014,4,23:21,1.57,3.63,Toledo; OH,Amplex,0,56.635,Mbits/s,Mbits/s
+12/4/2014,4,23:21,2.76,10.46,Cleveland; OH,AT&T,0,85.462,Mbits/s,Mbits/s
+12/4/2014,4,23:22,2.57,3.07,Detroit; MI,T-Mobile,0,36.123,Mbits/s,Mbits/s
+12/4/2014,4,23:23,1.05,7.77,Detroit; MI,T-Mobile,0,31.221,Mbits/s,Mbits/s
+12/4/2014,4,23:25,2.93,4.07,Detroit; MI,T-Mobile,0,32.329,Mbits/s,Mbits/s
+12/4/2014,4,23:26,3.15,11.98,Detroit; MI,AT&T,0,42.666,Mbits/s,Mbits/s
+12/4/2014,4,23:27,2.07,2.49,Detroit; MI,T-Mobile,0,33.343,Mbits/s,Mbits/s
+12/4/2014,4,23:28,3.53,3.32,Detroit; MI,T-Mobile,0,29.878,Mbits/s,Mbits/s
+12/4/2014,4,23:29,2.59,4.52,Canton; OH,LightSpeed Technologies,0,58.097,Mbits/s,Mbits/s
+12/4/2014,4,23:30,2.31,5.05,Detroit; MI,T-Mobile,0,44.185,Mbits/s,Mbits/s
+12/4/2014,4,23:31,1.49,7.91,Detroit; MI,T-Mobile,0,28.858,Mbits/s,Mbits/s
+12/4/2014,4,23:32,1.35,3.94,Detroit; MI,Comcast,0,37.127,Mbits/s,Mbits/s
+12/4/2014,4,23:34,2.56,9.13,Detroit; MI,T-Mobile,0,32.863,Mbits/s,Mbits/s
+12/4/2014,4,23:37,2.46,1.36,Toledo; OH,Amplex,0,55.529,Mbits/s,Mbits/s
+12/4/2014,4,23:38,1.70,8.65,Detroit; MI,Comcast,0,39.824,Mbits/s,Mbits/s
+12/4/2014,4,23:39,1.88,4.47,Detroit; MI,Comcast,0,42.829,Mbits/s,Mbits/s
+12/4/2014,4,23:41,0.83,4.35,Detroit; MI,T-Mobile,0,38.029,Mbits/s,Mbits/s
+12/4/2014,4,23:42,2.40,6.84,Detroit; MI,AT&T,0,40.855,Mbits/s,Mbits/s
+12/4/2014,4,23:43,2.97,8.56,Detroit; MI,AT&T,0,42.046,Mbits/s,Mbits/s
+12/4/2014,4,23:44,2.64,2.58,Detroit; MI,T-Mobile,0,31.164,Mbits/s,Mbits/s
+12/4/2014,4,23:45,2.31,8.46,Detroit; MI,T-Mobile,0,30.775,Mbits/s,Mbits/s
+12/4/2014,4,23:46,2.94,8.28,Cleveland; OH,AT&T,0,36.939,Mbits/s,Mbits/s
+12/4/2014,4,23:48,3.42,9.91,Detroit; MI,AT&T,0,37.578,Mbits/s,Mbits/s
+12/4/2014,4,23:49,2.15,5.04,Detroit; MI,T-Mobile,0,32.774,Mbits/s,Mbits/s
+12/4/2014,4,23:50,2.61,13.48,Cleveland; OH,AT&T,0,38.528,Mbits/s,Mbits/s
+12/4/2014,4,23:51,2.44,11.06,Cleveland; OH,AT&T,0,36.346,Mbits/s,Mbits/s
+12/4/2014,4,23:52,2.85,13.28,Detroit; MI,AT&T,0,38.927,Mbits/s,Mbits/s
+12/4/2014,4,23:53,1.99,4.56,Detroit; MI,Comcast,0,41.491,Mbits/s,Mbits/s
+12/4/2014,4,23:54,3.26,12.98,Detroit; MI,AT&T,0,35.541,Mbits/s,Mbits/s
+12/4/2014,4,23:55,2.20,6.60,Detroit; MI,T-Mobile,0,35.841,Mbits/s,Mbits/s
+12/4/2014,4,23:56,3.16,1.30,Cleveland; OH,AT&T,0,38.882,Mbits/s,Mbits/s
+12/4/2014,4,23:57,2.94,8.24,Cleveland; OH,AT&T,0,37.598,Mbits/s,Mbits/s
+12/4/2014,4,23:58,2.09,3.19,Detroit; MI,Comcast,0,37.534,Mbits/s,Mbits/s
+2/5/2015,4,19:51,24.15,20.20,Canton; OH,LightSpeed Technologies,0,47.965,Mbits/s,Mbits/s
+2/5/2015,4,19:52,22.06,18.89,Canton; OH,LightSpeed Technologies,0,25.319,Mbits/s,Mbits/s
+2/5/2015,4,19:52,22.50,19.69,Canton; OH,LightSpeed Technologies,0,25.304,Mbits/s,Mbits/s
+2/5/2015,4,19:53,20.74,19.06,Canton; OH,LightSpeed Technologies,0,24.867,Mbits/s,Mbits/s
+2/5/2015,4,19:53,18.98,15.63,Canton; OH,LightSpeed Technologies,0,27.193,Mbits/s,Mbits/s
+2/5/2015,4,19:54,24.09,18.67,Canton; OH,LightSpeed Technologies,0,27.08,Mbits/s,Mbits/s
+2/5/2015,4,19:55,25.70,18.16,Canton; OH,LightSpeed Technologies,0,27.422,Mbits/s,Mbits/s
+2/5/2015,4,19:55,23.88,15.01,Detroit; MI,Comcast,0,31.595,Mbits/s,Mbits/s
+2/5/2015,4,19:56,32.05,19.69,Canton; OH,LightSpeed Technologies,0,25.698,Mbits/s,Mbits/s
+2/5/2015,4,19:56,31.45,19.83,Canton; OH,LightSpeed Technologies,0,25.4,Mbits/s,Mbits/s
+2/5/2015,4,19:57,11.85,17.62,Toledo; OH,Amplex,0,29.179,Mbits/s,Mbits/s
+2/5/2015,4,19:57,25.18,17.94,Detroit; MI,Comcast,0,25.797,Mbits/s,Mbits/s
+2/5/2015,4,19:58,25.89,13.69,Cleveland; OH,AT&T,0,36.108,Mbits/s,Mbits/s
+2/5/2015,4,19:58,14.58,16.64,Toledo; OH,Amplex,0,30.518,Mbits/s,Mbits/s
+2/5/2015,4,19:59,23.83,17.73,Canton; OH,LightSpeed Technologies,0,27.012,Mbits/s,Mbits/s
+2/5/2015,4,19:59,27.57,18.70,Canton; OH,LightSpeed Technologies,0,26.367,Mbits/s,Mbits/s
+2/5/2015,4,20:00,20.74,17.52,Detroit; MI,Comcast,0,27.421,Mbits/s,Mbits/s
+2/5/2015,4,20:00,31.36,19.77,Canton; OH,LightSpeed Technologies,0,26.733,Mbits/s,Mbits/s
+2/5/2015,4,20:01,30.77,20.38,Canton; OH,LightSpeed Technologies,0,28.383,Mbits/s,Mbits/s
+2/5/2015,4,20:01,32.85,8.21,Canton; OH,LightSpeed Technologies,0,29.698,Mbits/s,Mbits/s
+2/5/2015,4,20:02,32.30,17.38,Canton; OH,LightSpeed Technologies,0,37.055,Mbits/s,Mbits/s
+2/5/2015,4,20:03,25.63,19.24,Detroit; MI,Comcast,0,27.195,Mbits/s,Mbits/s
+2/5/2015,4,20:03,23.18,20.30,Canton; OH,LightSpeed Technologies,0,27.361,Mbits/s,Mbits/s
+2/5/2015,4,20:04,17.71,20.20,Canton; OH,LightSpeed Technologies,0,30.802,Mbits/s,Mbits/s
+2/5/2015,4,20:04,20.44,20.45,Canton; OH,LightSpeed Technologies,0,30.842,Mbits/s,Mbits/s
+2/5/2015,4,20:05,22.60,19.08,Canton; OH,LightSpeed Technologies,0,25.721,Mbits/s,Mbits/s
+2/5/2015,4,20:05,12.61,19.74,Toledo; OH,Amplex,0,31.079,Mbits/s,Mbits/s
+2/5/2015,4,20:06,26.38,21.56,Canton; OH,LightSpeed Technologies,0,26.511,Mbits/s,Mbits/s
+2/5/2015,4,20:06,30.98,19.57,Canton; OH,LightSpeed Technologies,0,37.959,Mbits/s,Mbits/s
+2/5/2015,4,20:07,10.79,8.10,Toledo; OH,Amplex,0,29.157,Mbits/s,Mbits/s
+2/5/2015,4,20:07,29.23,14.50,Detroit; MI,Comcast,0,30.088,Mbits/s,Mbits/s
+2/5/2015,4,20:08,33.57,19.90,Canton; OH,LightSpeed Technologies,0,33.163,Mbits/s,Mbits/s
+2/5/2015,4,20:08,35.76,21.19,Canton; OH,LightSpeed Technologies,0,26.3,Mbits/s,Mbits/s
+2/5/2015,4,20:09,25.02,18.15,Canton; OH,LightSpeed Technologies,0,102.576,Mbits/s,Mbits/s
+2/5/2015,4,20:10,35.08,13.68,Canton; OH,LightSpeed Technologies,0,24.092,Mbits/s,Mbits/s
+2/5/2015,4,20:11,12.11,9.67,Toledo; OH,Amplex,0,31.011,Mbits/s,Mbits/s
+2/5/2015,4,20:11,31.74,10.91,Canton; OH,LightSpeed Technologies,0,25.82,Mbits/s,Mbits/s
+2/5/2015,4,20:12,33.54,19.05,Canton; OH,LightSpeed Technologies,0,29.404,Mbits/s,Mbits/s
+2/5/2015,4,20:12,12.59,18.49,Toledo; OH,Amplex,0,32.059,Mbits/s,Mbits/s
+2/5/2015,4,20:13,13.59,18.25,Toledo; OH,Amplex,0,28.807,Mbits/s,Mbits/s
+2/5/2015,4,20:13,28.70,10.92,Canton; OH,LightSpeed Technologies,0,26.991,Mbits/s,Mbits/s
+2/5/2015,4,20:14,29.89,19.53,Canton; OH,LightSpeed Technologies,0,27.683,Mbits/s,Mbits/s
+2/5/2015,4,20:14,9.89,17.53,Toledo; OH,Amplex,0,28.246,Mbits/s,Mbits/s
+2/5/2015,4,20:15,23.75,14.89,Canton; OH,LightSpeed Technologies,0,25.706,Mbits/s,Mbits/s
+2/5/2015,4,20:15,11.41,19.21,Toledo; OH,Amplex,0,29.347,Mbits/s,Mbits/s
+2/5/2015,4,20:16,25.00,16.89,Detroit; MI,Comcast,0,27.0,Mbits/s,Mbits/s
+2/5/2015,4,20:17,20.85,20.00,Detroit; MI,Comcast,0,28.112,Mbits/s,Mbits/s
+2/5/2015,4,20:17,27.30,19.63,Canton; OH,LightSpeed Technologies,0,29.305,Mbits/s,Mbits/s
+2/5/2015,4,20:18,27.70,19.59,Canton; OH,LightSpeed Technologies,0,25.052,Mbits/s,Mbits/s
+2/5/2015,4,20:18,26.54,19.87,Detroit; MI,Comcast,0,29.398,Mbits/s,Mbits/s
+2/5/2015,4,20:19,29.87,11.51,Canton; OH,LightSpeed Technologies,0,24.596,Mbits/s,Mbits/s
+2/5/2015,4,20:19,27.55,17.92,Canton; OH,LightSpeed Technologies,0,24.721,Mbits/s,Mbits/s
+2/5/2015,4,20:20,32.08,20.66,Canton; OH,LightSpeed Technologies,0,27.584,Mbits/s,Mbits/s
+2/5/2015,4,20:20,32.91,19.91,Canton; OH,LightSpeed Technologies,0,26.199,Mbits/s,Mbits/s
+2/5/2015,4,20:21,29.49,18.22,Canton; OH,LightSpeed Technologies,0,26.216,Mbits/s,Mbits/s
+2/5/2015,4,20:21,29.04,21.47,Detroit; MI,Comcast,0,27.552,Mbits/s,Mbits/s
+2/5/2015,4,20:22,28.76,19.95,Canton; OH,LightSpeed Technologies,0,25.396,Mbits/s,Mbits/s
+2/5/2015,4,20:22,31.84,20.37,Canton; OH,LightSpeed Technologies,0,26.844,Mbits/s,Mbits/s
+2/5/2015,4,20:23,32.32,18.47,Canton; OH,LightSpeed Technologies,0,25.05,Mbits/s,Mbits/s
+2/5/2015,4,20:23,13.57,19.72,Toledo; OH,Amplex,0,28.407,Mbits/s,Mbits/s
+2/5/2015,4,20:24,32.49,22.09,Canton; OH,LightSpeed Technologies,0,25.12,Mbits/s,Mbits/s
+2/5/2015,4,20:24,31.04,19.37,Canton; OH,LightSpeed Technologies,0,26.32,Mbits/s,Mbits/s
+2/5/2015,4,20:25,27.73,19.05,Canton; OH,LightSpeed Technologies,0,26.077,Mbits/s,Mbits/s
+2/5/2015,4,20:25,34.38,20.27,Canton; OH,LightSpeed Technologies,0,27.959,Mbits/s,Mbits/s
+2/5/2015,4,20:26,27.20,19.59,Detroit; MI,Comcast,0,27.078,Mbits/s,Mbits/s
+2/5/2015,4,20:26,30.73,20.47,Canton; OH,LightSpeed Technologies,0,26.088,Mbits/s,Mbits/s
+2/5/2015,4,20:26,29.24,19.15,Canton; OH,LightSpeed Technologies,0,26.916,Mbits/s,Mbits/s
+2/5/2015,4,20:27,22.70,19.69,Canton; OH,LightSpeed Technologies,0,26.557,Mbits/s,Mbits/s
+2/5/2015,4,20:28,22.12,18.49,Canton; OH,LightSpeed Technologies,0,29.688,Mbits/s,Mbits/s
+2/5/2015,4,20:28,25.84,19.39,Canton; OH,LightSpeed Technologies,0,28.426,Mbits/s,Mbits/s
+2/5/2015,4,20:29,12.78,18.05,Toledo; OH,Amplex,0,37.934,Mbits/s,Mbits/s
+2/5/2015,4,20:30,26.16,19.09,Canton; OH,LightSpeed Technologies,0,44.396,Mbits/s,Mbits/s
+2/5/2015,4,20:30,24.94,18.98,Canton; OH,LightSpeed Technologies,0,30.333,Mbits/s,Mbits/s
+2/5/2015,4,20:31,11.36,16.76,Toledo; OH,Amplex,0,34.828,Mbits/s,Mbits/s
+2/5/2015,4,20:32,12.19,18.42,Toledo; OH,Amplex,0,31.311,Mbits/s,Mbits/s
+2/5/2015,4,20:32,28.81,17.45,Canton; OH,LightSpeed Technologies,0,40.303,Mbits/s,Mbits/s
+2/5/2015,4,20:33,29.12,18.56,Canton; OH,LightSpeed Technologies,0,29.427,Mbits/s,Mbits/s
+2/5/2015,4,20:33,25.76,18.90,Canton; OH,LightSpeed Technologies,0,28.734,Mbits/s,Mbits/s
+2/5/2015,4,20:34,23.82,19.10,Canton; OH,LightSpeed Technologies,0,30.409,Mbits/s,Mbits/s
+2/5/2015,4,20:34,25.47,18.42,Cleveland; OH,AT&T,0,38.781,Mbits/s,Mbits/s
+2/5/2015,4,20:35,27.71,19.53,Canton; OH,LightSpeed Technologies,0,27.112,Mbits/s,Mbits/s
+2/5/2015,4,20:35,23.11,19.94,Canton; OH,LightSpeed Technologies,0,26.189,Mbits/s,Mbits/s
+2/5/2015,4,20:36,29.83,20.05,Canton; OH,LightSpeed Technologies,0,28.024,Mbits/s,Mbits/s
+2/5/2015,4,20:37,29.02,10.57,Canton; OH,LightSpeed Technologies,0,26.046,Mbits/s,Mbits/s
+2/5/2015,4,20:37,15.32,16.24,Toledo; OH,Amplex,0,29.932,Mbits/s,Mbits/s
+2/5/2015,4,20:38,28.93,19.60,Canton; OH,LightSpeed Technologies,0,29.864,Mbits/s,Mbits/s
+2/5/2015,4,20:38,23.96,19.32,Canton; OH,LightSpeed Technologies,0,25.315,Mbits/s,Mbits/s
+2/5/2015,4,20:39,21.15,20.08,Canton; OH,LightSpeed Technologies,0,27.177,Mbits/s,Mbits/s
+2/5/2015,4,20:39,24.11,20.02,Canton; OH,LightSpeed Technologies,0,28.742,Mbits/s,Mbits/s
+2/5/2015,4,20:40,23.28,20.68,Canton; OH,LightSpeed Technologies,0,25.59,Mbits/s,Mbits/s
+2/5/2015,4,20:40,27.12,19.54,Canton; OH,LightSpeed Technologies,0,28.174,Mbits/s,Mbits/s
+2/5/2015,4,20:41,26.68,18.10,Canton; OH,LightSpeed Technologies,0,26.74,Mbits/s,Mbits/s
+2/5/2015,4,20:41,27.42,20.37,Canton; OH,LightSpeed Technologies,0,28.074,Mbits/s,Mbits/s
+2/5/2015,4,20:42,26.77,20.13,Canton; OH,LightSpeed Technologies,0,27.597,Mbits/s,Mbits/s
+2/5/2015,4,20:42,25.84,19.37,Canton; OH,LightSpeed Technologies,0,25.141,Mbits/s,Mbits/s
+2/5/2015,4,20:43,28.11,20.03,Canton; OH,LightSpeed Technologies,0,26.038,Mbits/s,Mbits/s
+2/5/2015,4,20:43,26.85,18.98,Canton; OH,LightSpeed Technologies,0,26.388,Mbits/s,Mbits/s
+2/5/2015,4,20:44,24.42,18.75,Detroit; MI,Comcast,0,27.566,Mbits/s,Mbits/s
+2/5/2015,4,20:44,25.04,19.72,Canton; OH,LightSpeed Technologies,0,27.925,Mbits/s,Mbits/s
+2/5/2015,4,20:45,12.77,18.08,Toledo; OH,Amplex,0,33.774,Mbits/s,Mbits/s
+2/5/2015,4,20:46,27.31,20.41,Canton; OH,LightSpeed Technologies,0,25.865,Mbits/s,Mbits/s
+2/5/2015,4,20:46,28.59,18.93,Canton; OH,LightSpeed Technologies,0,26.799,Mbits/s,Mbits/s
+2/5/2015,4,20:47,27.82,18.45,Canton; OH,LightSpeed Technologies,0,27.153,Mbits/s,Mbits/s
+2/5/2015,4,20:47,22.50,16.42,Canton; OH,LightSpeed Technologies,0,34.071,Mbits/s,Mbits/s
+2/5/2015,4,20:48,14.52,19.70,Toledo; OH,Amplex,0,40.969,Mbits/s,Mbits/s
+2/5/2015,4,20:48,27.67,17.29,Canton; OH,LightSpeed Technologies,0,36.383,Mbits/s,Mbits/s
+2/5/2015,4,20:49,26.56,20.45,Canton; OH,LightSpeed Technologies,0,25.656,Mbits/s,Mbits/s
+2/5/2015,4,20:49,24.01,19.12,Canton; OH,LightSpeed Technologies,0,27.272,Mbits/s,Mbits/s
+2/5/2015,4,20:50,25.72,19.06,Canton; OH,LightSpeed Technologies,0,26.501,Mbits/s,Mbits/s
+2/5/2015,4,20:50,20.91,19.61,Detroit; MI,Comcast,0,27.82,Mbits/s,Mbits/s
+2/5/2015,4,20:51,29.51,13.04,Cleveland; OH,AT&T,0,37.923,Mbits/s,Mbits/s
+2/5/2015,4,20:51,23.76,20.41,Canton; OH,LightSpeed Technologies,0,35.091,Mbits/s,Mbits/s
+2/5/2015,4,20:52,14.56,17.48,Toledo; OH,Amplex,0,30.119,Mbits/s,Mbits/s
+2/5/2015,4,20:53,25.94,19.10,Canton; OH,LightSpeed Technologies,0,26.446,Mbits/s,Mbits/s
+2/5/2015,4,20:53,26.04,19.68,Detroit; MI,Comcast,0,39.884,Mbits/s,Mbits/s
+2/5/2015,4,20:54,24.04,18.47,Canton; OH,LightSpeed Technologies,0,28.184,Mbits/s,Mbits/s
+2/5/2015,4,20:54,29.03,17.11,Canton; OH,LightSpeed Technologies,0,29.321,Mbits/s,Mbits/s
+2/5/2015,4,20:55,26.22,17.78,Canton; OH,LightSpeed Technologies,0,37.454,Mbits/s,Mbits/s
+2/5/2015,4,20:55,11.55,20.08,Toledo; OH,Amplex,0,41.325,Mbits/s,Mbits/s
+2/5/2015,4,20:56,18.87,17.47,Cleveland; OH,AT&T,0,45.123,Mbits/s,Mbits/s
+2/5/2015,4,20:56,9.93,17.57,Toledo; OH,Amplex,0,29.848,Mbits/s,Mbits/s
+2/5/2015,4,20:57,26.28,19.50,Canton; OH,LightSpeed Technologies,0,29.883,Mbits/s,Mbits/s
+2/5/2015,4,20:57,24.87,20.11,Canton; OH,LightSpeed Technologies,0,29.587,Mbits/s,Mbits/s
+2/5/2015,4,20:58,27.51,17.71,Canton; OH,LightSpeed Technologies,0,25.989,Mbits/s,Mbits/s
+2/5/2015,4,20:58,24.52,16.92,Cleveland; OH,AT&T,0,37.265,Mbits/s,Mbits/s
+2/5/2015,4,20:59,28.81,19.38,Canton; OH,LightSpeed Technologies,0,32.093,Mbits/s,Mbits/s
+2/5/2015,4,20:59,26.05,19.45,Canton; OH,LightSpeed Technologies,0,40.411,Mbits/s,Mbits/s
+2/5/2015,4,21:00,30.48,19.90,Canton; OH,LightSpeed Technologies,0,25.534,Mbits/s,Mbits/s
+2/5/2015,4,21:01,23.54,19.70,Canton; OH,LightSpeed Technologies,0,45.923,Mbits/s,Mbits/s
+2/5/2015,4,21:01,24.88,18.12,Detroit; MI,Comcast,0,28.718,Mbits/s,Mbits/s
+2/5/2015,4,21:02,10.91,17.29,Toledo; OH,Amplex,0,46.01,Mbits/s,Mbits/s
+2/5/2015,4,21:02,12.37,20.04,Toledo; OH,Amplex,0,30.468,Mbits/s,Mbits/s
+2/5/2015,4,21:03,25.10,18.59,Detroit; MI,Comcast,0,27.48,Mbits/s,Mbits/s
+2/5/2015,4,21:03,20.71,18.78,Canton; OH,LightSpeed Technologies,0,46.758,Mbits/s,Mbits/s
+2/5/2015,4,21:04,12.70,9.82,Toledo; OH,Amplex,0,32.149,Mbits/s,Mbits/s
+2/5/2015,4,21:05,25.01,17.79,Cleveland; OH,AT&T,0,103.641,Mbits/s,Mbits/s
+2/5/2015,4,21:05,19.86,18.91,Canton; OH,LightSpeed Technologies,0,31.503,Mbits/s,Mbits/s
+2/5/2015,4,21:06,24.18,19.15,Canton; OH,LightSpeed Technologies,0,38.986,Mbits/s,Mbits/s
+2/5/2015,4,21:07,22.75,14.80,Canton; OH,LightSpeed Technologies,0,27.848,Mbits/s,Mbits/s
+2/5/2015,4,21:07,28.75,12.41,Detroit; MI,AT&T,0,40.571,Mbits/s,Mbits/s
+2/5/2015,4,21:08,31.98,20.60,Canton; OH,LightSpeed Technologies,0,37.072,Mbits/s,Mbits/s
+2/5/2015,4,21:08,31.28,20.36,Canton; OH,LightSpeed Technologies,0,29.284,Mbits/s,Mbits/s
+2/5/2015,4,21:09,11.73,18.07,Toledo; OH,Amplex,0,31.655,Mbits/s,Mbits/s
+2/5/2015,4,21:09,25.24,20.51,Detroit; MI,Comcast,0,29.922,Mbits/s,Mbits/s
+2/5/2015,4,21:10,20.60,18.83,Detroit; MI,Comcast,0,33.085,Mbits/s,Mbits/s
+2/5/2015,4,21:10,15.44,19.14,Canton; OH,LightSpeed Technologies,0,36.632,Mbits/s,Mbits/s
+2/5/2015,4,21:11,24.26,19.24,Canton; OH,LightSpeed Technologies,0,36.582,Mbits/s,Mbits/s
+2/5/2015,4,21:11,31.34,19.74,Canton; OH,LightSpeed Technologies,0,27.16,Mbits/s,Mbits/s
+2/5/2015,4,21:12,25.18,20.06,Detroit; MI,Comcast,0,47.378,Mbits/s,Mbits/s
+2/5/2015,4,21:12,24.46,19.44,Canton; OH,LightSpeed Technologies,0,39.85,Mbits/s,Mbits/s
+2/5/2015,4,21:13,27.75,19.42,Canton; OH,LightSpeed Technologies,0,43.221,Mbits/s,Mbits/s
+2/5/2015,4,21:13,27.47,20.38,Canton; OH,LightSpeed Technologies,0,30.201,Mbits/s,Mbits/s
+2/5/2015,4,21:14,26.05,19.23,Canton; OH,LightSpeed Technologies,0,30.171,Mbits/s,Mbits/s
+2/5/2015,4,21:15,17.08,19.47,Canton; OH,LightSpeed Technologies,0,32.847,Mbits/s,Mbits/s
+2/5/2015,4,21:15,21.38,17.79,Canton; OH,LightSpeed Technologies,0,25.522,Mbits/s,Mbits/s
+2/5/2015,4,21:16,17.41,19.14,Detroit; MI,Comcast,0,26.836,Mbits/s,Mbits/s
+2/5/2015,4,21:16,18.44,19.73,Canton; OH,LightSpeed Technologies,0,30.533,Mbits/s,Mbits/s
+2/5/2015,4,21:17,11.20,18.99,Canton; OH,LightSpeed Technologies,0,49.598,Mbits/s,Mbits/s
+2/5/2015,4,21:18,16.27,18.05,Detroit; MI,Comcast,0,43.269,Mbits/s,Mbits/s
+2/5/2015,4,21:18,17.80,19.87,Detroit; MI,Comcast,0,39.601,Mbits/s,Mbits/s
+2/5/2015,4,21:19,24.95,19.10,Canton; OH,LightSpeed Technologies,0,27.11,Mbits/s,Mbits/s
+2/5/2015,4,21:19,20.61,19.03,Detroit; MI,Comcast,0,34.588,Mbits/s,Mbits/s
+2/5/2015,4,21:20,17.06,18.77,Detroit; MI,Comcast,0,34.866,Mbits/s,Mbits/s
+2/5/2015,4,21:20,20.47,20.00,Detroit; MI,Comcast,0,44.876,Mbits/s,Mbits/s
+2/5/2015,4,21:21,25.44,19.18,Canton; OH,LightSpeed Technologies,0,34.26,Mbits/s,Mbits/s
+2/5/2015,4,21:21,10.16,16.14,Toledo; OH,Amplex,0,31.574,Mbits/s,Mbits/s
+2/5/2015,4,21:22,26.16,18.70,Canton; OH,LightSpeed Technologies,0,32.177,Mbits/s,Mbits/s
+2/5/2015,4,21:22,25.07,19.06,Canton; OH,LightSpeed Technologies,0,36.553,Mbits/s,Mbits/s
+2/5/2015,4,21:23,24.08,18.29,Canton; OH,LightSpeed Technologies,0,42.837,Mbits/s,Mbits/s
+2/5/2015,4,21:24,21.43,14.75,Cleveland; OH,AT&T,0,39.029,Mbits/s,Mbits/s
+2/5/2015,4,21:24,20.00,18.61,Canton; OH,LightSpeed Technologies,0,33.195,Mbits/s,Mbits/s
+2/5/2015,4,21:25,25.85,17.57,Canton; OH,LightSpeed Technologies,0,42.813,Mbits/s,Mbits/s
+2/5/2015,4,21:25,20.84,18.45,Detroit; MI,Comcast,0,42.206,Mbits/s,Mbits/s
+2/5/2015,4,21:26,20.00,18.26,Cleveland; OH,AT&T,0,37.063,Mbits/s,Mbits/s
+2/5/2015,4,21:26,21.37,17.86,Cleveland; OH,AT&T,0,48.745,Mbits/s,Mbits/s
+2/5/2015,4,21:27,15.37,17.94,Canton; OH,LightSpeed Technologies,0,46.262,Mbits/s,Mbits/s
+2/5/2015,4,21:28,10.30,19.30,Canton; OH,LightSpeed Technologies,0,53.083,Mbits/s,Mbits/s
+2/5/2015,4,21:29,8.82,12.88,Canton; OH,LightSpeed Technologies,0,51.021,Mbits/s,Mbits/s
+2/5/2015,4,21:29,11.96,18.26,Detroit; MI,Comcast,0,52.977,Mbits/s,Mbits/s
+2/5/2015,4,21:30,11.51,18.67,Canton; OH,LightSpeed Technologies,0,36.865,Mbits/s,Mbits/s
+2/5/2015,4,21:31,6.35,12.17,Toledo; OH,Amplex,0,46.483,Mbits/s,Mbits/s
+2/5/2015,4,21:32,15.37,18.64,Canton; OH,LightSpeed Technologies,0,43.32,Mbits/s,Mbits/s
+2/5/2015,4,21:33,18.01,18.77,Canton; OH,LightSpeed Technologies,0,49.938,Mbits/s,Mbits/s
+2/5/2015,4,21:33,6.33,17.79,Toledo; OH,Amplex,0,47.176,Mbits/s,Mbits/s
+2/5/2015,4,21:34,15.46,17.83,Canton; OH,LightSpeed Technologies,0,46.127,Mbits/s,Mbits/s
+2/5/2015,4,21:35,6.55,16.69,Toledo; OH,Amplex,0,58.847,Mbits/s,Mbits/s
+2/5/2015,4,21:36,5.66,16.31,Toledo; OH,Amplex,0,56.648,Mbits/s,Mbits/s
+2/5/2015,4,21:36,9.43,18.49,Canton; OH,LightSpeed Technologies,0,46.529,Mbits/s,Mbits/s
+2/5/2015,4,21:37,10.78,18.51,Canton; OH,LightSpeed Technologies,0,65.736,Mbits/s,Mbits/s
+2/5/2015,4,21:38,9.28,17.62,Canton; OH,LightSpeed Technologies,0,55.15,Mbits/s,Mbits/s
+2/5/2015,4,21:38,6.85,15.84,Toledo; OH,Amplex,0,50.724,Mbits/s,Mbits/s
+2/5/2015,4,21:39,8.10,14.00,Canton; OH,LightSpeed Technologies,0,50.072,Mbits/s,Mbits/s
+2/5/2015,4,21:40,6.30,19.17,Canton; OH,LightSpeed Technologies,0,58.789,Mbits/s,Mbits/s
+2/5/2015,4,21:40,8.69,18.06,Canton; OH,LightSpeed Technologies,0,50.048,Mbits/s,Mbits/s
+2/5/2015,4,21:41,11.80,11.80,Canton; OH,LightSpeed Technologies,0,49.436,Mbits/s,Mbits/s
+2/5/2015,4,21:42,6.56,17.05,Toledo; OH,Amplex,0,47.419,Mbits/s,Mbits/s
+2/5/2015,4,21:43,15.28,15.78,Canton; OH,LightSpeed Technologies,0,53.848,Mbits/s,Mbits/s
+2/5/2015,4,21:43,10.98,18.30,Detroit; MI,Comcast,0,49.117,Mbits/s,Mbits/s
+2/5/2015,4,21:44,14.78,15.43,Canton; OH,LightSpeed Technologies,0,45.756,Mbits/s,Mbits/s
+2/5/2015,4,21:45,9.80,18.80,Detroit; MI,Comcast,0,54.636,Mbits/s,Mbits/s
+2/5/2015,4,21:45,12.43,18.84,Canton; OH,LightSpeed Technologies,0,53.05,Mbits/s,Mbits/s
+2/5/2015,4,21:46,10.93,18.43,Detroit; MI,Comcast,0,50.363,Mbits/s,Mbits/s
+2/5/2015,4,21:47,9.76,18.85,Detroit; MI,Comcast,0,45.088,Mbits/s,Mbits/s
+2/5/2015,4,21:47,5.75,16.60,Toledo; OH,Amplex,0,53.931,Mbits/s,Mbits/s
+2/5/2015,4,21:48,9.65,14.56,Canton; OH,LightSpeed Technologies,0,50.613,Mbits/s,Mbits/s
+2/5/2015,4,21:49,7.09,18.26,Detroit; MI,Comcast,0,44.611,Mbits/s,Mbits/s
+2/5/2015,4,21:50,5.72,14.96,Toledo; OH,Amplex,0,48.601,Mbits/s,Mbits/s
+2/5/2015,4,21:51,6.71,3.73,Cleveland; OH,AT&T,0,60.348,Mbits/s,Mbits/s
+2/5/2015,4,21:52,6.96,18.13,Canton; OH,LightSpeed Technologies,0,48.564,Mbits/s,Mbits/s
+2/5/2015,4,21:52,4.73,16.49,Toledo; OH,Amplex,0,51.36,Mbits/s,Mbits/s
+2/5/2015,4,21:53,8.82,17.76,Canton; OH,LightSpeed Technologies,0,50.251,Mbits/s,Mbits/s
+2/5/2015,4,21:54,7.49,18.02,Cleveland; OH,AT&T,0,58.828,Mbits/s,Mbits/s
+2/5/2015,4,21:55,8.18,18.48,Canton; OH,LightSpeed Technologies,0,45.998,Mbits/s,Mbits/s
+2/5/2015,4,21:56,8.97,18.33,Canton; OH,LightSpeed Technologies,0,48.066,Mbits/s,Mbits/s
+2/5/2015,4,21:57,7.40,18.36,Detroit; MI,Comcast,0,47.419,Mbits/s,Mbits/s
+2/5/2015,4,21:58,9.85,19.03,Detroit; MI,Comcast,0,48.865,Mbits/s,Mbits/s
+2/5/2015,4,21:58,9.88,18.76,Canton; OH,LightSpeed Technologies,0,44.058,Mbits/s,Mbits/s
+2/5/2015,4,21:59,9.78,19.59,Canton; OH,LightSpeed Technologies,0,46.384,Mbits/s,Mbits/s
+2/5/2015,4,22:00,12.45,18.98,Canton; OH,LightSpeed Technologies,0,48.215,Mbits/s,Mbits/s
+2/5/2015,4,22:00,7.10,17.62,Toledo; OH,Amplex,0,51.515,Mbits/s,Mbits/s
+2/5/2015,4,22:01,8.01,18.17,Canton; OH,LightSpeed Technologies,0,41.634,Mbits/s,Mbits/s
+2/5/2015,4,22:02,7.50,17.19,Canton; OH,LightSpeed Technologies,0,54.84,Mbits/s,Mbits/s
+2/5/2015,4,22:03,4.89,18.20,Canton; OH,LightSpeed Technologies,0,55.195,Mbits/s,Mbits/s
+2/5/2015,4,22:03,7.73,18.49,Canton; OH,LightSpeed Technologies,0,45.863,Mbits/s,Mbits/s
+2/5/2015,4,22:04,6.19,18.13,Toledo; OH,Amplex,0,49.173,Mbits/s,Mbits/s
+2/5/2015,4,22:05,10.36,19.39,Canton; OH,LightSpeed Technologies,0,47.299,Mbits/s,Mbits/s
+2/5/2015,4,22:06,6.30,17.62,Detroit; MI,Comcast,0,41.023,Mbits/s,Mbits/s
+2/5/2015,4,22:06,9.88,17.79,Canton; OH,LightSpeed Technologies,0,51.843,Mbits/s,Mbits/s
+2/5/2015,4,22:07,10.11,18.56,Canton; OH,LightSpeed Technologies,0,50.108,Mbits/s,Mbits/s
+2/5/2015,4,22:08,11.30,15.93,Detroit; MI,Comcast,0,44.947,Mbits/s,Mbits/s
+2/5/2015,4,22:08,9.24,19.02,Canton; OH,LightSpeed Technologies,0,43.889,Mbits/s,Mbits/s
+2/5/2015,4,22:09,8.18,18.45,Canton; OH,LightSpeed Technologies,0,50.229,Mbits/s,Mbits/s
+2/5/2015,4,22:10,8.79,12.46,Canton; OH,LightSpeed Technologies,0,48.676,Mbits/s,Mbits/s
+2/5/2015,4,22:11,8.55,18.56,Detroit; MI,Comcast,0,59.438,Mbits/s,Mbits/s
+2/5/2015,4,22:11,10.73,18.78,Detroit; MI,Comcast,0,46.301,Mbits/s,Mbits/s
+2/5/2015,4,22:12,8.94,16.74,Canton; OH,LightSpeed Technologies,0,51.761,Mbits/s,Mbits/s
+2/5/2015,4,22:13,4.70,15.90,Toledo; OH,Amplex,0,60.051,Mbits/s,Mbits/s
+2/5/2015,4,22:13,10.28,14.15,Detroit; MI,Comcast,0,56.484,Mbits/s,Mbits/s
+2/5/2015,4,22:14,5.98,17.72,Cleveland; OH,AT&T,0,61.043,Mbits/s,Mbits/s
+2/5/2015,4,22:14,8.95,18.11,Canton; OH,LightSpeed Technologies,0,44.049,Mbits/s,Mbits/s
+2/5/2015,4,22:15,9.16,19.34,Canton; OH,LightSpeed Technologies,0,45.395,Mbits/s,Mbits/s
+2/5/2015,4,22:16,9.63,18.74,Canton; OH,LightSpeed Technologies,0,49.908,Mbits/s,Mbits/s
+2/5/2015,4,22:16,9.68,18.24,Canton; OH,LightSpeed Technologies,0,46.963,Mbits/s,Mbits/s
+2/5/2015,4,22:17,10.64,16.34,Cleveland; OH,AT&T,0,56.678,Mbits/s,Mbits/s
+2/5/2015,4,22:18,12.65,13.54,Detroit; MI,Comcast,0,52.071,Mbits/s,Mbits/s
+2/5/2015,4,22:19,7.15,17.91,Detroit; MI,Comcast,0,66.812,Mbits/s,Mbits/s
+2/5/2015,4,22:19,9.27,14.70,Cleveland; OH,AT&T,0,56.018,Mbits/s,Mbits/s
+2/5/2015,4,22:21,7.91,13.59,Canton; OH,LightSpeed Technologies,0,57.998,Mbits/s,Mbits/s
+2/5/2015,4,22:21,4.82,16.50,Toledo; OH,Amplex,0,61.283,Mbits/s,Mbits/s
+2/5/2015,4,22:22,7.51,17.86,Canton; OH,LightSpeed Technologies,0,58.608,Mbits/s,Mbits/s
+2/5/2015,4,22:23,3.70,16.08,Canton; OH,LightSpeed Technologies,0,74.611,Mbits/s,Mbits/s
+2/5/2015,4,22:23,7.58,16.98,Cleveland; OH,AT&T,0,60.131,Mbits/s,Mbits/s
+2/5/2015,4,22:24,6.35,15.65,Toledo; OH,Amplex,0,60.634,Mbits/s,Mbits/s
+2/5/2015,4,22:25,4.21,17.52,Cleveland; OH,AT&T,0,53.311,Mbits/s,Mbits/s
+2/5/2015,4,22:25,6.25,17.30,Cleveland; OH,AT&T,0,58.676,Mbits/s,Mbits/s
+2/5/2015,4,22:26,5.87,16.96,Cleveland; OH,AT&T,0,61.768,Mbits/s,Mbits/s
+2/5/2015,4,22:26,7.48,18.08,Detroit; MI,Comcast,0,51.916,Mbits/s,Mbits/s
+2/5/2015,4,22:27,5.87,16.79,Detroit; MI,Comcast,0,47.463,Mbits/s,Mbits/s
+2/5/2015,4,22:28,6.20,16.63,Cleveland; OH,AT&T,0,59.709,Mbits/s,Mbits/s
+2/5/2015,4,22:28,5.06,15.37,Massillon; OH,MCTV,0,62.238,Mbits/s,Mbits/s
+2/5/2015,4,22:29,5.88,14.11,Toledo; OH,Amplex,0,56.778,Mbits/s,Mbits/s
+2/5/2015,4,22:30,5.75,18.66,Detroit; MI,Comcast,0,59.859,Mbits/s,Mbits/s
+2/5/2015,4,22:31,4.24,14.45,Toledo; OH,Amplex,0,59.224,Mbits/s,Mbits/s
+2/5/2015,4,22:32,6.58,17.74,Detroit; MI,Comcast,0,58.44,Mbits/s,Mbits/s
+2/5/2015,4,22:32,4.80,16.25,Toledo; OH,Amplex,0,61.758,Mbits/s,Mbits/s
+2/5/2015,4,22:33,4.64,17.05,Canton; OH,LightSpeed Technologies,0,61.825,Mbits/s,Mbits/s
+2/5/2015,4,22:34,5.57,16.81,Cleveland; OH,AT&T,0,68.37,Mbits/s,Mbits/s
+2/5/2015,4,22:35,4.47,16.51,Toledo; OH,Amplex,0,64.316,Mbits/s,Mbits/s
+2/5/2015,4,22:36,5.34,16.45,Canton; OH,LightSpeed Technologies,0,58.557,Mbits/s,Mbits/s
+2/5/2015,4,22:37,4.24,16.43,Canton; OH,LightSpeed Technologies,0,62.898,Mbits/s,Mbits/s
+2/5/2015,4,22:38,2.40,17.62,Toledo; OH,Amplex,0,60.099,Mbits/s,Mbits/s
+2/5/2015,4,22:39,7.97,15.39,Detroit; MI,Comcast,0,53.711,Mbits/s,Mbits/s
+2/5/2015,4,22:39,4.80,16.39,Cleveland; OH,AT&T,0,63.763,Mbits/s,Mbits/s
+2/5/2015,4,22:40,4.99,16.26,Toledo; OH,Amplex,0,58.72,Mbits/s,Mbits/s
+2/5/2015,4,22:40,4.40,15.36,Toledo; OH,Amplex,0,62.618,Mbits/s,Mbits/s
+2/5/2015,4,22:41,7.58,18.36,Detroit; MI,Comcast,0,49.713,Mbits/s,Mbits/s
+2/5/2015,4,22:42,6.00,17.31,Cleveland; OH,AT&T,0,57.359,Mbits/s,Mbits/s
+2/5/2015,4,22:43,6.50,17.55,Cleveland; OH,AT&T,0,65.411,Mbits/s,Mbits/s
+2/5/2015,4,22:43,7.39,11.02,Cleveland; OH,AT&T,0,55.319,Mbits/s,Mbits/s
+2/5/2015,4,22:44,6.98,17.57,Detroit; MI,Comcast,0,51.356,Mbits/s,Mbits/s
+2/5/2015,4,22:45,7.21,17.26,Cleveland; OH,AT&T,0,56.256,Mbits/s,Mbits/s
+2/5/2015,4,22:46,7.46,17.87,Cleveland; OH,AT&T,0,54.914,Mbits/s,Mbits/s
+2/5/2015,4,22:47,7.16,18.96,Detroit; MI,Comcast,0,45.3,Mbits/s,Mbits/s
+2/5/2015,4,22:48,11.10,17.42,Detroit; MI,Comcast,0,45.451,Mbits/s,Mbits/s
+2/5/2015,4,22:48,6.79,17.55,Detroit; MI,Comcast,0,56.318,Mbits/s,Mbits/s
+2/5/2015,4,22:50,4.93,17.24,Cleveland; OH,AT&T,0,64.342,Mbits/s,Mbits/s
+2/5/2015,4,22:50,5.00,16.25,Toledo; OH,Amplex,0,58.462,Mbits/s,Mbits/s
+2/5/2015,4,22:51,6.04,13.87,Detroit; MI,Comcast,0,59.445,Mbits/s,Mbits/s
+2/5/2015,4,22:52,4.19,16.95,Massillon; OH,MCTV,0,66.062,Mbits/s,Mbits/s
+2/5/2015,4,22:52,7.00,17.04,Cleveland; OH,AT&T,0,64.402,Mbits/s,Mbits/s
+2/5/2015,4,22:53,3.98,17.17,Toledo; OH,Amplex,0,61.173,Mbits/s,Mbits/s
+2/5/2015,4,22:54,6.15,16.54,Cleveland; OH,AT&T,0,56.978,Mbits/s,Mbits/s
+2/5/2015,4,22:55,2.66,14.54,Toledo; OH,Amplex,0,55.236,Mbits/s,Mbits/s
+2/5/2015,4,22:56,6.29,18.84,Detroit; MI,AT&T,0,62.442,Mbits/s,Mbits/s
+2/5/2015,4,22:57,7.03,17.33,Detroit; MI,Comcast,0,51.334,Mbits/s,Mbits/s
+2/5/2015,4,22:57,8.15,18.03,Detroit; MI,Comcast,0,57.373,Mbits/s,Mbits/s
+2/5/2015,4,22:58,7.06,17.73,Cleveland; OH,AT&T,0,52.419,Mbits/s,Mbits/s
+2/5/2015,4,22:59,4.89,17.10,Detroit; MI,AT&T,0,56.129,Mbits/s,Mbits/s
+2/5/2015,4,23:00,6.00,17.69,Detroit; MI,Comcast,0,51.927,Mbits/s,Mbits/s
+2/5/2015,4,23:00,8.12,18.47,Detroit; MI,Comcast,0,49.163,Mbits/s,Mbits/s
+2/5/2015,4,23:01,7.98,17.98,Cleveland; OH,AT&T,0,56.225,Mbits/s,Mbits/s
+2/5/2015,4,23:02,4.99,15.91,Toledo; OH,Amplex,0,62.495,Mbits/s,Mbits/s
+2/5/2015,4,23:02,5.12,13.63,Toledo; OH,Amplex,0,49.713,Mbits/s,Mbits/s
+2/5/2015,4,23:03,6.83,19.29,Detroit; MI,Comcast,0,51.3,Mbits/s,Mbits/s
+2/5/2015,4,23:04,5.26,17.80,Detroit; MI,AT&T,0,62.522,Mbits/s,Mbits/s
+2/5/2015,4,23:05,4.41,16.28,Toledo; OH,Amplex,0,58.452,Mbits/s,Mbits/s
+2/5/2015,4,23:06,6.78,15.99,Canton; OH,LightSpeed Technologies,0,56.945,Mbits/s,Mbits/s
+2/5/2015,4,23:06,5.09,17.32,Toledo; OH,Amplex,0,60.357,Mbits/s,Mbits/s
+2/5/2015,4,23:07,4.83,16.99,Massillon; OH,MCTV,0,57.78,Mbits/s,Mbits/s
+2/5/2015,4,23:08,6.81,18.45,Detroit; MI,Comcast,0,56.524,Mbits/s,Mbits/s
+2/5/2015,4,23:09,5.21,17.59,Toledo; OH,Amplex,0,61.198,Mbits/s,Mbits/s
+2/5/2015,4,23:09,5.22,17.21,Massillon; OH,MCTV,0,57.691,Mbits/s,Mbits/s
+2/5/2015,4,23:10,4.86,16.26,Toledo; OH,Amplex,0,57.178,Mbits/s,Mbits/s
+2/5/2015,4,23:11,5.93,14.18,Detroit; MI,Comcast,0,50.181,Mbits/s,Mbits/s
+2/5/2015,4,23:12,3.55,12.17,Canton; OH,LightSpeed Technologies,0,61.803,Mbits/s,Mbits/s
+2/5/2015,4,23:13,3.38,17.37,Detroit; MI,AT&T,0,61.81,Mbits/s,Mbits/s
+2/5/2015,4,23:14,3.88,18.83,Detroit; MI,Comcast,0,59.178,Mbits/s,Mbits/s
+2/5/2015,4,23:15,3.94,17.23,Canton; OH,LightSpeed Technologies,0,62.933,Mbits/s,Mbits/s
+2/5/2015,4,23:15,4.98,16.89,Canton; OH,LightSpeed Technologies,0,60.456,Mbits/s,Mbits/s
+2/5/2015,4,23:16,7.37,16.99,Detroit; MI,Comcast,0,53.597,Mbits/s,Mbits/s
+2/5/2015,4,23:17,7.45,18.92,Detroit; MI,Comcast,0,53.553,Mbits/s,Mbits/s
+2/5/2015,4,23:18,4.21,17.06,Canton; OH,LightSpeed Technologies,0,54.974,Mbits/s,Mbits/s
+2/5/2015,4,23:19,4.84,16.08,Toledo; OH,Amplex,0,56.506,Mbits/s,Mbits/s
+2/5/2015,4,23:20,5.83,17.35,Canton; OH,LightSpeed Technologies,0,58.738,Mbits/s,Mbits/s
+2/5/2015,4,23:20,6.63,18.05,Detroit; MI,Comcast,0,52.176,Mbits/s,Mbits/s
+2/5/2015,4,23:21,5.68,11.84,Canton; OH,LightSpeed Technologies,0,59.9,Mbits/s,Mbits/s
+2/5/2015,4,23:22,5.49,16.62,Cleveland; OH,AT&T,0,61.257,Mbits/s,Mbits/s
+2/5/2015,4,23:23,2.31,13.72,Detroit; MI,T-Mobile,0,61.519,Mbits/s,Mbits/s
+2/5/2015,4,23:24,4.83,15.44,Toledo; OH,Amplex,0,65.558,Mbits/s,Mbits/s
+2/5/2015,4,23:25,4.64,16.17,Toledo; OH,Amplex,0,66.192,Mbits/s,Mbits/s
+2/5/2015,4,23:26,3.54,16.28,Cleveland; OH,AT&T,0,61.701,Mbits/s,Mbits/s
+2/5/2015,4,23:27,4.62,17.02,Canton; OH,LightSpeed Technologies,0,57.9,Mbits/s,Mbits/s
+2/5/2015,4,23:28,5.38,16.59,Toledo; OH,Amplex,0,57.541,Mbits/s,Mbits/s
+2/5/2015,4,23:28,6.65,16.23,Cleveland; OH,AT&T,0,62.331,Mbits/s,Mbits/s
+2/5/2015,4,23:29,5.18,16.34,Cleveland; OH,AT&T,0,61.135,Mbits/s,Mbits/s
+2/5/2015,4,23:30,3.94,17.01,Canton; OH,LightSpeed Technologies,0,57.795,Mbits/s,Mbits/s
+2/5/2015,4,23:31,6.85,10.88,Detroit; MI,Comcast,0,56.884,Mbits/s,Mbits/s
+2/5/2015,4,23:31,3.75,16.01,Detroit; MI,T-Mobile,0,69.439,Mbits/s,Mbits/s
+2/5/2015,4,23:32,5.66,16.65,Cleveland; OH,AT&T,0,61.127,Mbits/s,Mbits/s
+2/5/2015,4,23:33,5.51,17.78,Detroit; MI,Comcast,0,49.765,Mbits/s,Mbits/s
+2/5/2015,4,23:33,5.53,17.43,Cleveland; OH,AT&T,0,61.543,Mbits/s,Mbits/s
+2/5/2015,4,23:34,4.80,17.38,Toledo; OH,Amplex,0,62.133,Mbits/s,Mbits/s
+2/5/2015,4,23:35,5.84,18.36,Detroit; MI,Comcast,0,57.049,Mbits/s,Mbits/s
+2/5/2015,4,23:36,4.66,16.36,Canton; OH,LightSpeed Technologies,0,60.291,Mbits/s,Mbits/s
+2/5/2015,4,23:37,4.43,15.39,Detroit; MI,T-Mobile,0,70.545,Mbits/s,Mbits/s
+2/5/2015,4,23:37,6.71,15.79,Canton; OH,LightSpeed Technologies,0,66.308,Mbits/s,Mbits/s
+2/5/2015,4,23:38,5.03,14.93,Canton; OH,LightSpeed Technologies,0,68.754,Mbits/s,Mbits/s
+2/5/2015,4,23:39,6.83,13.83,Detroit; MI,Comcast,0,52.123,Mbits/s,Mbits/s
+2/5/2015,4,23:40,4.46,16.10,Cleveland; OH,AT&T,0,62.677,Mbits/s,Mbits/s
+2/5/2015,4,23:41,7.66,16.96,Canton; OH,LightSpeed Technologies,0,60.324,Mbits/s,Mbits/s
+2/5/2015,4,23:41,9.05,17.12,Detroit; MI,Comcast,0,53.571,Mbits/s,Mbits/s
+2/5/2015,4,23:42,4.56,16.15,Toledo; OH,Amplex,0,58.246,Mbits/s,Mbits/s
+2/5/2015,4,23:43,4.32,16.25,Toledo; OH,Amplex,0,55.181,Mbits/s,Mbits/s
+2/5/2015,4,23:43,4.98,17.13,Toledo; OH,Amplex,0,60.079,Mbits/s,Mbits/s
+2/5/2015,4,23:44,7.12,16.38,Cleveland; OH,AT&T,0,62.27,Mbits/s,Mbits/s
+2/5/2015,4,23:46,5.11,18.29,Detroit; MI,Comcast,0,51.13,Mbits/s,Mbits/s
+2/5/2015,4,23:46,5.02,17.94,Detroit; MI,Comcast,0,51.67,Mbits/s,Mbits/s
+2/5/2015,4,23:47,5.54,17.43,Canton; OH,LightSpeed Technologies,0,60.119,Mbits/s,Mbits/s
+2/5/2015,4,23:48,7.61,17.15,Massillon; OH,MCTV,0,66.965,Mbits/s,Mbits/s
+2/5/2015,4,23:48,6.64,14.27,Canton; OH,LightSpeed Technologies,0,59.195,Mbits/s,Mbits/s
+2/5/2015,4,23:49,7.11,16.08,Detroit; MI,AT&T,0,60.986,Mbits/s,Mbits/s
+2/5/2015,4,23:50,6.62,15.92,Cleveland; OH,AT&T,0,61.787,Mbits/s,Mbits/s
+2/5/2015,4,23:51,5.72,16.26,Cleveland; OH,AT&T,0,58.087,Mbits/s,Mbits/s
+2/5/2015,4,23:52,7.46,16.51,Detroit; MI,Comcast,0,54.661,Mbits/s,Mbits/s
+2/5/2015,4,23:53,6.13,15.61,Canton; OH,LightSpeed Technologies,0,55.223,Mbits/s,Mbits/s
+2/5/2015,4,23:54,8.18,14.09,Detroit; MI,AT&T,0,66.221,Mbits/s,Mbits/s
+2/5/2015,4,23:54,8.34,16.38,Detroit; MI,AT&T,0,59.05,Mbits/s,Mbits/s
+2/5/2015,4,23:55,4.68,16.44,Toledo; OH,Amplex,0,59.657,Mbits/s,Mbits/s
+2/5/2015,4,23:56,9.18,18.56,Detroit; MI,Comcast,0,52.649,Mbits/s,Mbits/s
+2/5/2015,4,23:57,5.62,15.68,Massillon; OH,MCTV,0,57.611,Mbits/s,Mbits/s
+2/5/2015,4,23:58,9.53,17.70,Detroit; MI,Comcast,0,53.299,Mbits/s,Mbits/s
+2/5/2015,4,23:59,8.58,17.02,Detroit; MI,Comcast,0,50.121,Mbits/s,Mbits/s
+2/12/2015,4,19:45,14.08,17.02,Detroit; MI,Comcast,0,32.901,Mbits/s,Mbits/s
+2/12/2015,4,19:46,26.95,20.27,Detroit; MI,Comcast,0,26.144,Mbits/s,Mbits/s
+2/12/2015,4,19:46,30.76,20.04,Detroit; MI,Comcast,0,28.438,Mbits/s,Mbits/s
+2/12/2015,4,19:47,30.60,18.25,Detroit; MI,Comcast,0,27.208,Mbits/s,Mbits/s
+2/12/2015,4,19:47,28.58,12.99,Detroit; MI,Comcast,0,27.238,Mbits/s,Mbits/s
+2/12/2015,4,19:48,28.71,20.45,Detroit; MI,Comcast,0,33.711,Mbits/s,Mbits/s
+2/12/2015,4,19:48,18.32,12.22,Detroit; MI,Comcast,0,28.993,Mbits/s,Mbits/s
+2/12/2015,4,19:49,27.84,20.90,Detroit; MI,Comcast,0,25.095,Mbits/s,Mbits/s
+2/12/2015,4,19:50,29.46,21.42,Detroit; MI,Comcast,0,29.741,Mbits/s,Mbits/s
